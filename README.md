@@ -4,7 +4,10 @@ This Matlab code follows the idea from the paper (in citaion) with some modifica
 ## Use pretrained model for peak classification (use function "peaksEVA.m")
 Example usage: download and unzip the code, type the following one-line code in matlab
 
-    [ispeak, img]=peaksEVA([], 'example_peaks_pos.csv', [5,6], 'net64', 1);
+    [ispeak, img]=peaksEVA([], 'pklist.csv', [5,6], 'net64', 1);
+    
+Once the file selection dialog pops up, selected the example dataset (5 mzXML files).
+pklist.csv is generated from elmaven via targeted peak-picking using a know standard list.
 
 Required inputs:
 1) input .mzXML file(s). Leave it blank[] for opening a file dialog.
