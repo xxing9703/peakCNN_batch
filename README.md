@@ -1,5 +1,5 @@
-# peaksCNN
-This Matlab code follows the idea from the paper (in citaion) with some modifications, for training and using deep learning CNN (convolutional neural network) model to classify LC-MS features as true (high quality) and false (low quality).
+# peaksCNN_batch
+This Matlab code follows the idea from the paper (in citaion) with some modifications, for training and using deep learning CNN (convolutional neural network) model to classify LC-MS features as true (high quality) and false (low quality). This is the updated version of peaksCNN, and supports multiple .mzXML inputs.
 
 ## Use pretrained model for peak classification (use function "peaksEVA.m")
 Example usage: download and unzip the code, type the following one-line code in matlab
@@ -15,7 +15,7 @@ Required inputs:
 Output:
  1) A subfolder with a time stamp will be generated (i.e., tmp-2022-04-28-12:00), containing a "true" folder and a "false" folder.
  2) images for EICs of all the peaks will be classified and saved into either "true" or "false" folders.  the output "img" stores an array of EIC images.(Only if verbose=1). 
- 3) A copy of the peaklist file will be created under the same folder, New columns "ispeak" & "Quality" will be added to the end of the peaklist.
+ 3) A copy of the peaklist file will be created under the same folder, New columns "ispeak" & "Quality" will be added to the end of the peaklist. Instead of being 0 or 1 for "ispeak" in peakCNN, here, "ispeak" is an integer showing the number of true peaks. "Quality" is the averaged probablily of being true peaks.
 
 Note: DO NOT close the popup figure (for updating EIC plots) until the run is completed.
 
