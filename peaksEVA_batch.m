@@ -42,6 +42,10 @@ if nargin>5
   settings.ppm=ppm*1e-6;
 end
 
+if isempty(fn_mzXML)
+  fn=uigetfile('*.mzXML','MultiSelect','on'); 
+end
+
 if ~iscell(fn_mzXML)
     fn{1}=fn_mzXML;  % single mzXML
 else
