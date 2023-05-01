@@ -1,0 +1,1965 @@
+Name,Formula,m/z,RT
+Hexanoic acid,C6H12O2,,4
+Indole-3-acetamide,C10H10N2O,,4.221
+Indole-3-acetamide isomer,C10H10N2O,,6.97
+Indole-3-acetaldoxime N-oxide,C10H10N2O2,,4.122
+Benzylideneacetone isomer,C10H10O,,2.469
+Hydroxy-methoxycinnamic acid,C10H10O4,194.05791,
+Ferulic acid 4-sulfate,C10H10O7S,,7.053
+2'_3'-Anhydroadenosine,C10H11N5O3,,5.282
+Indole-3-ethanol,C10H11NO,,2.83
+Indoleacetic acid,C10H11NO2,,2.79
+3-Acetylacetanilide isomer,C10H11NO2,,10.476
+Phenylacetylglycine,C10H11NO3,,2.85
+2-Methylhippuric acid,C10H11NO3,,2.96
+Phenaceturic acid,C10H11NO3,,6.9
+p-hydroxyphenylacetylglycine isomer,C10H11NO4,,2.574
+Vanilloylglycine,C10H11NO5,,11.24
+2_3-Dihydroxybenzoylserine,C10H11NO6,,12.216
+Tryptamine,C10H12N2,159.09277,8.34
+Serotonin,C10H12N2O,,9.55
+kynurenine,C10H12N2O3,C00328|C01718,8.87
+deoxyinosine,C10H12N4O4,,7.854
+Deoxyinosine isomer,C10H12N4O4,,13.492
+inosine,C10H12N4O5,267.07349,8.43
+xanthosine,C10H12N4O6,,11.253
+cyclic AMP,C10H12N5O6P,,9.736
+N-(Purin-6-ylcarbamoyl)-L-threonine isomer,C10H12N6O4,,8.103
+2-Phenylbutyric acid,C10H12O2,163.07645,2.68
+3-(3-Methoxyphenyl)propionic acid,C10H12O3,,2.87
+3_4-Dimethoxyphenylacetic acid,C10H12O4,,2.752
+orotidine-5'-phosphate,C10H13N2O11P,C01103,
+3-(2-(4-Nitrobenzoyl)hydrazinyl)propane-1-sulfonic acid isomer 2,C10H13N3O6S,,13.089
+3-(2-(4-Nitrobenzoyl)hydrazinyl)propane-1-sulfonic acid,C10H13N3O6S,,13.501
+3-(2-(4-Nitrobenzoyl)hydrazinyl)propane-1-sulfonic acid isomer,C10H13N3O6S,,13.872
+Deoxyinosine monophosphate,C10H13N4O7P,,11.152
+5'-Deoxy-5'-thioinosine 5'-monophosphate,C10H13N4O7PS,,2.062
+IMP,C10H13N4O8P,,13.922
+xanthosine -5-phosphate ,C10H13N4O9P,,14.1
+Deoxyadenosine,C10H13N5O3,,6.046
+adenosine,C10H13N5O4,,7.647
+deoxyguanosine,C10H13N5O4,266.08948,8.5
+Guanosine isomer,C10H13N5O5,,8.922
+Guanosine,C10H13N5O5,,9.725
+Salsolinol isomer,C10H13NO2,,2.913
+O-Benzyl-L-serine isomer,C10H13NO3,,12.313
+thymidine,C10H14N2O5,241.08299,5.27
+Ribothymidine isomer,C10H14N2O6,,5.257
+Ribothymidine,C10H14N2O6,,12.175
+IDP,C10H14N4O11P2,427.00616,13.82
+adenosine 5'-phosphosulfate,C10H14N5O10PS,,12.619
+dAMP,C10H14N5O6P,330.06088,13.38
+AMP,C10H14N5O7P,,13.679
+dGMP,C10H14N5O7P,346.05582,13.72
+GMP,C10H14N5O8P,,14.046
+Perillic acid isomer,C10H14O2,,2.733
+N-Butylaniline isomer,C10H15N,,2.754
+dTMP,C10H15N2O8P,C00364,6.76
+Imidazoleacetic acid ribotide isomer,C10H15N2O9P,,11.167
+5-Methylcytidine,C10H15N3O5,,7.7
+Dehydroglutathione isomer 2,C10H15N3O6S,,12.154
+Dehydroglutathione isomer 1,C10H15N3O6S,,13
+Dehydroglutathione,C10H15N3O6S,,13.649
+Inosine 5-triphosphate,C10H15N4O14P3,,16.1
+dGDP,C10H15N5O10P2,426.02213,13.94
+ADP,C10H15N5O10P2,,13.971
+GDP,C10H15N5O11P2,,14.214
+3'-Phosphoadenylyl sulfate,C10H15N5O13P2S,,13.937
+Ephedrine isomer,C10H15NO,,2.948
+Methylsynephrine isomer,C10H15NO2,,2.826
+Hymexazol N-glucoside isomer,C10H15NO7,,13.416
+dTDP,C10H16N2O11P2,401.01566,13.37
+biotin,C10H16N2O3S,243.08089,8.58
+Pro-Glu,C10H16N2O5,,13.595
+Glu-Glu,C10H16N2O7,,13.934
+Anserine,C10H16N4O3,,13.936
+Homocarnosine,C10H16N4O3,239.11496,14.27
+dATP,C10H16N5O12P3,489.99356,13.88
+ATP,C10H16N5O13P3,,14.189
+GTP,C10H16N5O14P3,,14.534
+Dihydrocarvone isomer,C10H16O,,4.192
+Dihydronepetalactone isomer,C10H16O2,,2.836
+Glycerol 1-propanoate diacetate isomer,C10H16O6,,13.306
+dTTP,C10H17N2O14P3,480.98199,13.85
+Biotin amide isomer,C10H17N3O2S,,11.176
+Pro-Gln,C10H17N3O4,,12.997
+Gln-Glu isomer,C10H17N3O6,,13.585
+Gln-Glu,C10H17N3O6,,14.13
+glutathione,C10H17N3O6S,,13.467
+Acetyltropine isomer,C10H17NO2,,2.838
+Methyprylon isomer,C10H17NO2,,3.423
+2-octenoylglycine isomer,C10H17NO3,,3.062
+2-octenoylglycine,C10H17NO3,,4.201
+Propenoyl carnitine C3:1,C10H17NO4,,7.1
+propenoyl carnitine isomer 2,C10H17NO4,,12.927
+propenoyl carnitine isomer 1,C10H17NO4,,13.501
+Suberyl Glycine,C10H17NO5,,11.253
+Suberylglycine isomer,C10H17NO5,,12.987
+Malonylcarnitine,C10H17NO6,,13.345
+Pro-Val,C10H18N2O3,,12.982
+Hydroxyprolyl-Valine,C10H18N2O4,,9.661
+Glu-Val,C10H18N2O5,,13.133
+Leu-Asp isomer,C10H18N2O5,,13.497
+L-arginino-succinate,C10H18N4O6,,14.145
+Asn Cys Ser isomer,C10H18N4O6S1,,11.208
+9-Decenoic acid isomer,C10H18O2,,2.772
+9-Decenoic acid,C10H18O2,,4.198
+10-hydroxy-2E-decenoic acid,C10H18O3,,2.577
+Sebacate,C10H18O4,,4.21
+Sebacic acid,C10H18O4,,11.256
+2-Hydroxydecanedioic acid,C10H18O5,,11.283
+Asp Lys,C10H19N3O5,,14.145
+Lys-Asp,C10H19N3O5,,14.858
+Asp Arg,C10H19N5O5,,14.792
+Capryloyl glycine,C10H19NO3,,3.027
+N-Octanoylglycine,C10H19NO3,,4.205
+Propionyl-L-carnitine isomer 1,C10H19NO4,,7.983
+Propionyl carnitine C3,C10H19NO4,,9.872
+Propionyl-L-carnitine isomer 2,C10H19NO4,,11.948
+Methyl pantothenate isomer,C10H19NO5,,13.408
+D-1-[(3-Carboxypropyl)amino]-1-deoxyfructose,C10H19NO7,,13.912
+N-(1-Deoxy-1-fructosyl)threonine,C10H19NO8,,14.041
+Val-Val isomer,C10H20N2O3,,13.438
+Val-Val isomer,C10H20N2O3,,13.788
+Leu-Thr isomer,C10H20N2O4,,13.595
+Leu-Thr isomer,C10H20N2O4,,14.746
+Dibutyl sulfonylbiscarbamate isomer,C10H20N2O6S,,12.822
+2_3-Butanediol glucoside isomer,C10H20O7,,9.104
+6-O-(2-(2-Hydroxyethoxy)ethyl)-D-glucose isomer,C10H20O8,,12.46
+Diethylcarbamazine N-oxide isomer,C10H21N3O2,,14.006
+Spermine,C10H26N4,202.215746,
+Quinaldic acid,C10H7NO2,,7.08
+Kynurenic acid,C10H7NO3,,4.83
+Xanthurenic acid,C10H7NO4,204.03023,7.1
+Naphthalene isomer,C10H8,,2.582
+4-Phenoxypyrimidine isomer,C10H8N2O,,4.182
+Indole-3-acetylaldehyde,C10H9NO,,2.86
+Indoleacetaldehyde isomer,C10H9NO,,8.821
+Indole-3-acetic acid ,C10H9NO2,,3
+5-hydroxyindole-3-acetic acid,C10H9NO3,,7.01
+7-Ethoxycoumarin isomer,C11H10O3,,4.195
+3-[2-(2H-1-3-Benzodioxol-5-yl)ethyl]-5-oxo-2-5-dihydro-1-2-3-oxadiazol-3-ium,C11H11N2O4,,2.204
+Indole-3-propionic acid,C11H11NO2,,2.81
+DL-Indole-3-lactic acid,C11H11NO3,,2.84
+Cinnamoylglycine,C11H11NO3,,4.14
+Indolelactic acid,C11H11NO3,,4.19
+tryptophan,C11H12N2O2,,8.775
+5-L-Hydroxytryptophan,C11H12N2O3,219.07751,10.24
+Prenylbenzoquinone,C11H12O2,,2.768
+Myristicin isomer,C11H12O3,,2.695
+DL-Benzylsuccinic acid,C11H12O4,,9
+N-N-Dimethyl-2-{(E)-[(2-3-6-trichlorophenyl)methylidene]amino}ethan-1-amine,C11H13Cl3N2,,6.999
+Pargyline,C11H13N,,13.5
+1-(4-Hydroxyphenyl)piperidin-2-one,C11H13NO2,191.094629,
+Phenylpropionylglycine,C11H13NO3,,3
+N-acetyl-phe,C11H13NO3,,4.214
+N-acetyl-tyr isomer,C11H13NO4,,7.084
+N-acetyl-tyr,C11H13NO4,,7.427
+5-Methoxytryptamine,C11H14N2O,189.10333,8.18
+Gly-Phe,C11H14N2O3,,8.519
+Glycyl-L-tyrosine ,C11H14N2O4,,9.4
+Nicotinamide riboside,C11H14N2O5,,14.554
+5-Phenylvaleric acid,C11H14O2,177.0921,2.76
+Beta-Nicotinamide mononucleotide,C11H15N2O8P,,14.174
+5-methylthioadenosine (degradation product?),C11H15N5O3S,296.08228,4.72
+5-methylthioadenosine,C11H15N5O3S,,14.904
+1-Methyladenosine,C11H15N5O4,280.10513,6.85
+7-Methylguanosine,C11H15N5O5,,7.935
+Nelarabine,C11H15N5O5,,11.888
+methyladenosine monophosphate,C11H15N5O7P,,14
+7-methylguanosine,C11H16N5O5,297.10788,7.2
+D-Erythroascorbic acid 1'-a-D-glucoside isomer,C11H16O10,,12.197
+Dihydroactinidiolide,C11H16O2,,2.69
+Dihydroactinidiolide isomer,C11H16O2,,4.186
+Formylglutathione,C11H17N3O7S,,13.011
+His-Gln,C11H17N5O4,,12.454
+2-hydroxymexiletine,C11H17NO2,,3.048
+Mescaline isomer,C11H17NO3,,4.192
+gamma-Glutamyl-S-(1-propenyl)cysteine sulfoxide,C11H18N2O6S,,12.751
+3-O-alpha-D-Glucopyranuronosyl-D-xylose,C11H18O11,,13.418
+Methyl geranate,C11H18O2,,2.675
+2-Carboxy-5_7-dimethyl-4-octanolide,C11H18O4,,2.888
+2_2'-(3-methylcyclohexane-1_1-diyl)diacetic acid,C11H18O4,,4.179
+Dibutyl oxopropanedioate isomer,C11H18O5,,2.426
+ophthalmic acid ,C11H19N3O6,,13.433
+Ophthalmic acid isomer,C11H19N3O6,,14.12
+methyl glutathione isomer,C11H19N3O6S,,8.826
+Glu-Cys-Ala,C11H19N3O6S,,9.963
+Ala Cys Glu,C11H19N3O6S,,13.291
+N-Glycoloyl-neuraminate,C11H19NO10,,13.487
+O-succinylcarnitine,C11H19NO6,,13.448
+N-Acetylneuraminic acid,C11H19NO9,,13.133
+Pro-Ile,C11H20N2O3,,11.162
+Pro-Leu,C11H20N2O3,,13.404
+Gamma-Glu-Leu,C11H20N2O5,,12.049
+Saccharopine,C11H20N2O6,,13.986
+CDP-ethanolamine,C11H20N4O11P2,,13.981
+Pro-Lys,C11H21N3O3,,15.227
+epsilon-(gamma-Glutamyl)-lysine,C11H21N3O5,,14.453
+N-Nonanoylglycine,C11H21NO3,,4.189
+Isobutyryl carnitine,C11H21NO4,,7.714
+Butyryl-L-carnitine,C11H21NO4,,8.851
+Hydroxybutyrylcarnitine,C11H21NO5,,11.763
+Leu-Val isomer,C11H22N2O3,,7.084
+Leu-Val,C11H22N2O3,,13.438
+Pantetheine,C11H22N2O4S,,4.348
+C11:0(Undecanoic acid),C11H22O2,185.15471,2.54
+Lys-Val,C11H23N3O3,,14.65
+VaL-Lys isomer,C11H23N3O3,,17.92
+Menadione,C11H8O2,,2.69
+Plumbagin,C11H8O3,,4.201
+trans-3-Indoleacrylic acid,C11H9NO2,,2.96
+Indole-3-pyruvic acid,C11H9NO3,,2.57
+6-Methoxy-3-(2-thiazolyl)-1H-indole isomer,C12H10N2OS,,13.348
+2-[[2-(1H-indol-3-yl)acetyl]amino]acetate,C12H12N2O3,,7.065
+3-Indolebutyric acid,C12H13NO2,,2.9
+N-Acetylserotonin,C12H14N2O2,,2.998
+N-Acetylserotonin isomer,C12H14N2O2,,7.989
+5-Methoxytryptophan,C12H14N2O3,233.09317,8.47
+3_4_5-Trimethoxycinnamic acid,C12H14O5,,2.85
+Phenyl glucuronide,C12H14O7,,8.072
+Phe-Ser isomer,C12H16N2O4,,14.1
+Thiamine,C12H16N4OS,,15.5
+4-(4-Deoxy-?-D-gluc-4-enuronosyl)-D-galacturonate ,C12H16O12,,13.546
+Elemicin isomer,C12H16O3,,4.192
+Thiamine monophosphate,C12H17N4O4PS,,14.595
+Volkenin isomer,C12H17NO7,,13.399
+Gynocardin isomer,C12H17NO8,,11.833
+Thiamine pyrophosphate,C12H18N4O7P2S,,14.363
+Digalacturonate,C12H18O13,,13.976
+Neocnidilide isomer,C12H18O2,,2.432
+Jasmonic Acid isomer,C12H18O3,,2.47
+Tuberonic acid isomer,C12H18O4,,2.685
+S-(Formylmethyl)glutathione,C12H19N3O7S,,12.882
+Terbutaline isomer,C12H19NO3,,2.878
+Terbutaline isomer,C12H19NO3,,4.195
+Terbutaline,C12H19NO3,,9.912
+pirbuterol isomer,C12H20N2O3,,11.381
+Hydroxyaspergillic acid isomer,C12H20N2O3,,13.521
+Gly Gln Glu isomer,C12H20N4O7,,13.664
+Asp Ser Gln isomer,C12H20N4O8,,11.878
+Melibiouronic acid,C12H20O12,,13.973
+Traumatic Acid isomer,C12H20O4,,2.67
+Traumatic Acid,C12H20O4,,4.192
+4-Oxododecanedioic acid  isomer,C12H20O5,,3.007
+Ser Thr Glu isomer,C12H21N3O8,,14.046
+Tiglyl carnitine C5:1,C12H21NO4,,7.094
+Tiglylcarnitine,C12H21NO4,,8.575
+S-Succinyldihydrolipoamide,C12H21NO4S2,,13.144
+Glutarylcarnitine,C12H21NO6,,13.448
+{[Bis(tert-butoxycarbonyl)amino]oxy}acetic acid isomer,C12H21NO7,,13.526
+N6-Galacturonyl-L-lysine isomer,C12H22N2O8,,13.85
+Ala Thr Gln,C12H22N4O6,,14.605
+trehalose,C12H22O11,341.10895,7.19
+sucrose,C12H22O11,,13.396
+Cellobiose,C12H22O11,341.10895,13.71
+Lactose,C12H22O11,341.10895,13.86
+S-3-oxodecanoyl cysteamine,C12H23NO2S,,2.606
+N-Decanoylglycine isomer,C12H23NO3,,2.826
+N-Decanoylglycine,C12H23NO3,,4.192
+Isovaleryl carnitine C5,C12H23NO4,,7.79
+2-Methylbutyroylcarnitine,C12H23NO4,,8.15
+3-Methylbutyl glucosinolate,C12H23NO9S2,,7.157
+trehalose-6-Phosphate,C12H23O14P,421.07526,13.96
+Leu-Leu,C12H24N2O3,,12.927
+Fructoselysine,C12H24N2O7,,16.062
+Galactosylhydroxylysine,C12H24N2O8,,16.6
+Laurate,C12H24O2,,2.6
+Fructoselysine 6-phosphate,C12H25N2O10P,,14.313
+Lys-Leu isomer,C12H25N3O3,,17.95
+Leu-Arg,C12H25N5O3,,12.064
+Hexaethylene glycol,C12H26O7,,4.71
+5-(Benzyloxy)-2-sulfanylphenol isomer,C13H12O2S,,11.422
+N-acetyl-trp,C13H14N2O3,,5.9
+DMABA NHS ester isomer,C13H14N2O4,,8.051
+Melatonin,C13H16N2O2,231.11391,2.85
+L-Aspartyl-L-phenylalanine,C13H16N2O5,279.09863,10.72
+Ritalinic acid isomer,C13H17NO2,,7.729
+3-Hydroxymelatonin,C13H18N2O3,,12.408
+N5-(4-Methoxybenzyl)glutamine,C13H18N2O4,,13.046
+Benzyl b-L-arabinopyranoside ,C13H18O4,,4.186
+Ethylethcathinone,C13H19NO,,2.868
+Albuterol isomer,C13H21NO3,,4.192
+Acarbose isomer,C13H21NO7,,13.266
+Palythinol isomer,C13H22N2O6,,11.352
+Cysteine-glutathione disulphide,C13H22N4O8S2,,14.086
+Methyl 2-acetyl-3-oxodecanoate isomer,C13H22O4,,2.656
+valeroidine isomer,C13H23NO3,,2.778
+Undecylenoyl glycine,C13H23NO3,,4.192
+2-Hexenoylcarnitine,C13H23NO4,,6.58
+3-Methylglutarylcarnitine,C13H23NO6,,8.421
+O-adipoyl-L-carnitine,C13H23NO6,,13.394
+Citronellyl propionate isomer,C13H24O2,,2.539
+hexanoyl carnitine,C13H25NO4,,7.652
+3-(Hexane-1-sulfinyl)-N-N-bis(2-hydroxyethyl)prop-2-enamide isomer,C13H25NO4S,,2.388
+Hydroxyhexanoycarnitine,C13H25NO5,,9.251
+Tridecanoic acid,C13H26O2,214.19328,
+athyriol isomer,C14H10O6,,4.878
+Enilconazole,C14H14Cl2N2O,,2.724
+Indoxyl glucuronide,C14H15NO7,,8.056
+Indican isomer,C14H17NO6,,11.247
+L-phenylalanyl-L-proline,C14H18N2O3,,7.611
+Pro-Tyr,C14H18N2O4,,8.856
+Glu-Phe,C14H18N2O5,,11.687
+Glu-Phe,C14H18N2O5,,12.303
+gamma-Glutamyltyrosine,C14H18N2O6,,11.28
+N6-(1-2-Dicarboxyethyl)-AMP,C14H18N5O11P,,14.051
+Adenylosuccinate,C14H18N5O11P,,14.06
+2-Phenylethanol glucuronide,C14H18O7,,7.103
+VaL-Tyr,C14H20N2O4,,13.021
+S-Adenosylhomocysteine,C14H20N6O5S,,13.418
+S-adenosyl-L-homocysteine,C14H20N6O5S,,13.418
+Heptyl p-hydroxybenzoate,C14H20O3,,4.198
+3alpha-Hydroxyoreadone isomer,C14H20O4,,2.135
+Chondroitin isomer,C14H21NO11,,12.194
+UDP-D-Xylose,C14H22N2O16P2,,13.834
+Geranyl acetoacetate isomer 1,C14H22O3,,2.52
+Geranyl acetoacetate isomer 2,C14H22O3,,4.198
+S-adenosyl-L-methioninamine,C14H23N6O3S,C01137,13.82
+Ethyl 7-(2-formyl-5-oxopyrrolidin-1-yl)heptanoate isomer,C14H23NO4,,2.938
+Heliohoustine isomer,C14H23NO4,,7.078
+C14:2,C14H24O2,,2.539
+L-Menthyl acetoacetate isomer,C14H24O3,,4.198
+Octanoylglucuronide,C14H24O8,,8.387
+N-acetyllactosamine isomer,C14H25NO11,,13.448
+O-pimelyl-L-carnitine,C14H25NO6,,13.187
+CDP-choline,C14H26N4O11P2,,13.932
+Myristoleic acid C14:1,C14H26O2,,2.53
+Tetradecanedioic acid,C14H26O4,,7.903
+1-Octen-3-yl glucoside isomer,C14H26O6,,3.078
+N-Lauroylglycine isomer,C14H27NO3,,2.72
+N-Lauroylglycine,C14H27NO3,,4.179
+Heptanoylcarnitine,C14H27NO4,,7.378
+C14:0(Myristic acid),C14H28O2,227.20166,2.55
+B-Octylglucoside isomer,C14H28O6,,2.813
+1-Tetradecanesulfonic acid,C14H30O3S,,2.182
+Heptaethylene glycol isomer,C14H30O8,,4.839
+7_8-Dihydroxyflavone isomer,C15H10O4,,3.052
+Baicalein isomer,C15H10O5,,2.023
+Apigenin isomer,C15H10O5,,2.833
+Apigenin 7-sulfate,C15H10O8S,,2.02
+Triiodothyronine (Liothyronine),C15H12I3NO4,650.790044,
+Isoliquiritigenin isomer,C15H12O4,,2.917
+3 5-Diiodothyronine,C15H13I2NO4,524.893399,
+1-hydroxy-2-acetamidofluorene isomer,C15H13NO2,,8.198
+Ketorolac isomer,C15H13NO3,,9.188
+equol,C15H14O3,,2.074
+Equol,C15H14O3,,2.67
+Equol isomer,C15H14O3,,11.162
+equol sulfate,C15H14O6S,,2.059
+Dihydronaringenin-O-sulphate,C15H14O8S,,2.163
+1_3-Bis(phenylsulfinyl)propane isomer,C15H16O2S2,,4.863
+Encelin isomer 2,C15H16O3,,2.768
+Encelin isomer 1,C15H16O3,,4.173
+Homobaldrinal isomer,C15H16O4,,2.657
+Achalensolide isomer,C15H18O3,,2.972
+Achalensolide,C15H18O3,,4.205
+Helenalin,C15H18O4,,4.195
+Marasmone isomer,C15H18O5,,2.254
+Cyclodopa glucoside isomer,C15H19NO9,,14.025
+N6-Carbamoyl-L-threonyladenosine,C15H20N6O8,,11.575
+Isoalantolactone isomer,C15H20O2,,2.791
+Isoalantolactone,C15H20O2,,4.186
+Quadrone,C15H20O3,,4.201
+Abscisic Acid,C15H20O4,,4.192
+Cyclic-ADP-ribose,C15H21N5O13P2,541.061116,13.27
+Metalaxyl isomer,C15H21NO4,,7.978
+alpha-curcumene ,C15H22,,2.484
+UDP-glucuronate,C15H22N2O18P2,,14.036
+Isoleucyl-Tyrosine,C15H22N2O4,,7.084
+Leu-Tyr,C15H22N2O4,,7.198
+S-Adenosylmethionine,C15H22N6O5S,,14.934
+Curlone isomer,C15H22O,,2.611
+Confertifoline,C15H22O2,,4.187
+Gemfibrozil isomer,C15H22O3,,2.363
+Pentalenic acid,C15H22O3,,4.198
+4-Gingerol isomer,C15H22O4,,2.407
+ADP-ribose,C15H23N5O14P2,,13.605
+ADP-ribose isomer,C15H23N5O14P2,,13.788
+ADP-ribose,C15H23N5O14P2,,13.892
+UDP-D-glucose,C15H24N2O17P2,,13.917
+Corey PG-Lactone Diol isomer,C15H24O4,,4.186
+2-Hydroxy-5-nonylbenzene-1-sulfonic acid,C15H24O4S,,4.186
+UDP-glucosamine,C15H25N3O16P2,,13.956
+supinine isomer,C15H25NO4,,4.206
+(2E)-7-carboxyhept-2-enoylcarnitine,C15H25NO6,,12.812
+C15:2,C15H26O2,,2.56
+Kessyl glycol isomer,C15H26O3,,2.388
+Isocaucalol isomer,C15H26O3,,2.785
+Kikkanol F isomer,C15H26O3,,4.198
+(10S)-Juvenile hormone III acid diol isomer,C15H26O4,,2.654
+Ethylene brassylate,C15H26O4,,4.198
+octenoylcarnitine,C15H27NO4,,7.311
+C15:1,C15H28O2,,2.507
+Octanoylcarnitine,C15H29NO4,,7.213
+C15:0,C15H30O2,,2.52
+3-hydroxypentadecanoic acid isomer,C15H30O3,,2.398
+Wedelolactone,C16H10O7,,12.559
+Oroxylin A isomer,C16H12O5,,2.074
+Ketoprofen,C16H14O3,,13.912
+Arborinine isomer,C16H15NO4,,9.277
+Methyl equol sulfate,C16H16O6S,,1.97
+Juglone glucoside isomer,C16H16O8,,8.431
+Pro-Trp,C16H19N3O3,,7.847
+Brefeldin A,C16H24O4,,4.202
+ADP-D-glucose,C16H25N5O15P2,,13.971
+GDP-glucose,C16H25N5O16P2,,14.081
+Esmolol isomer,C16H25NO4,,4.197
+Methyl farnesoate isomer,C16H26O2,,2.66
+Gelcohol,C16H26O4,,4.205
+4-(Decyloxy)benzene-1-sulfonic acid,C16H26O4S,,2.224
+13_14-dihydro-15-keto-tetranor PGE2 isomer,C16H26O5,,2.891
+Portuloside A isomer,C16H26O7,,3.071
+C16:2,C16H28O2,,2.507
+Thr Cys Ile Ser isomer,C16H30N4O7S,,12.877
+C16:1,C16H30O2,,2.486
+hexadecanedioic acid,C16H30O4,,4.208
+N-Dodecanoyl-L-threonine ,C16H31NO4,,2.675
+O-Nonanoyl-L-carnitine,C16H31NO4,,7.158
+C16:0,C16H32O2,,2.476
+Palmitic amide,C16H33NO,,2.685
+2-aminohexadecanoic acid,C16H33NO2,,4.246
+De-O-methylsterigmatocystin,C17H10O6,,12.533
+Aflatoxin B1 isomer,C17H12O6,,11.933
+Avenanthramide E isomer,C17H15NO5,,11.227
+Morphine 6-sulfate isomer,C17H19NO6S,,2.189
+riboflavin,C17H20N4O6,375.13101,7.8
+FMN,C17H21N4O9P,455.09735,13.17
+Semilepidinoside B,C17H22N2O7,,12.917
+Trp Lys isomer,C17H24N4O3,,7.158
+falcarinol isomer,C17H24O,,2.464
+magellanine isomer,C17H25NO2,,2.843
+Dipentyl pyridine-2-3-dicarboxylate isomer,C17H25NO4,,2.858
+UDP-N-acetyl-glucosamine,C17H27N3O17P2,,13.714
+Decatrienoyl carnitine C10:3,C17H27NO4,,7.34
+benoxinate isomer,C17H28N2O3,,4.167
+Arteether isomer,C17H28O5,,4.198
+decadienoylcarnitine,C17H29NO4,,7.158
+C17:2,C17H30O2,,2.486
+decenoylcarnitine,C17H31NO4,,7.138
+6-Keto-decanoylcarnitine,C17H31NO5,,7.493
+C17:1,C17H32O2,,2.461
+2-myristoleoyl-glycerol isomer,C17H32O4,,4.195
+Decanoyl-L-carnitine,C17H33NO4,,7.118
+C17:0,C17H34O2,,2.47
+Salvigenin isomer,C18H16O6,,2.603
+Zearalenone,C18H22O5,,2.144
+Galaxolide isomer,C18H26O,,2.582
+Octyl 4-methoxycinnamic acid,C18H26O3,,2.651
+Di-n-pentyl phthalate isomer,C18H26O4,,4.198
+C18:4,C18H28O2,,2.492
+13-epi-12-oxo Phytodienoic Acid,C18H28O3,,2.564
+Cibaric acid isomer,C18H28O5,,4.186
+C18:3,C18H30O2,,2.479
+13-OxoODE isomer 2,C18H30O3,,2.198
+13-OxoODE isomer,C18H30O3,,2.609
+13(S)-HpOTrE isomer,C18H30O4,,2.682
+2_3-dinor Prostaglandin E1,C18H30O5,,4.195
+Bisoprolol isomer,C18H31NO4,,7.138
+Raffinose,C18H32O16,,14.572
+C18:2 ,C18H32O2,,2.464
+C18:1,C18H34O2,,2.445
+Octadecanedioic acid,C18H34O4,,2.342
+Oleamide,C18H35NO,,2.636
+3-ketosphingosine isomer,C18H35NO2,,2.592
+Spiroxamine isomer,C18H35NO2,,4.211
+4_8 Dimethylnonanoyl carnitine,C18H35NO4,,7.113
+C18:0,C18H36O2,,2.445
+Stearamide,C18H37NO,,2.636
+sphingosine(d18:1),C18H37NO2,,2.739
+Sphingosine isomer,C18H37NO2,,3.111
+Sphingosine,C18H37NO2,,4.211
+Sphingosine-1-phosphate,C18H38NO5P,,7.44
+Sphinganine,C18H39NO2,,4.485
+phytosphingosine,C18H39NO3,,5.097
+Sphinganine-phosphate,C18H40NO5P,,7.467
+Luguine isomer,C19H13NO5,,13.536
+4-(diphenylphosphoryloxyamino)benzonitrile isomer,C19H15N2O2P,,13.256
+Egonol isomer,C19H18O5,,7.948
+folate,C19H19N7O6,440.13242,13.26
+Benzyl butyl phthalate,C19H20O4,,2.567
+Dehydrogeissoschizine isomer,C19H21N5O2,,4.878
+Androstenedione,C19H26O2,286.19328,2.63
+Ubiquinone-2 isomer,C19H26O4,,2.049
+Rubrosterone isomer,C19H26O5,,2.084
+Calonectrin isomer,C19H26O6,,2.198
+trans-Dehydroandrosterone isomer,C19H28O2,,4.192
+6beta-Hydroxytestosterone isomer,C19H28O3,,2.657
+5'-Carboxy-alpha-chromanol,C19H28O4,,4.201
+Met Ser His Glu isomer,C19H30N6O8S,,14.11
+C19:4,C19H30O2,,
+Decylubiquinone isomer,C19H30O4,,4.201
+Idebenone isomer,C19H30O5,,4.198
+Corchoionol C 9-glucoside,C19H30O8,,7.109
+Pramanicin isomer,C19H31NO6,,4.216
+C19:3,C19H32O2,,2.43
+Nonoxynols isomer,C19H32O3,,4.197
+Blumenol C glucoside isomer,C19H32O7,,3.087
+Dihydroroseoside isomer,C19H32O8,,7.632
+C19:2,C19H34O2,,2.44
+dodecenoylcarnitine,C19H35NO4,,7.104
+C19:1,C19H36O2,,2.423
+Ricinoleic Acid methyl ester,C19H36O3,,2.577
+Margaroylglycine isomer,C19H37NO3,,2.891
+dodecanoylcarnitine isomer,C19H37NO4,,3.126
+dodecanoylcarnitine,C19H37NO4,,7.099
+2-Hydroxylauroylcarnitine,C19H37NO5,,7.173
+C19:0,C19H38O2,,2.42
+Palmitoyl Serinol,C19H39NO3,,2.901
+Demethoxycurcumin isomer,C20H18O5,,11.693
+Uralenol isomer,C20H18O7,,2.593
+Uralenol isomer,C20H18O7,,13.32
+Tangeritin,C20H20O7,,2.72
+Hydroxygaleon isomer,C20H22O5,,2.577
+Folinic acid ,C20H23N7O7,,13.38
+1-Nitro-7-hydroxy-8-glutathionyl-7-8-dihydronaphthalene,C20H24N4O9S,,11.362
+5-methyl-THF,C20H25N7O6,458.17935,13.01
+dehydroretinal isomer,C20H26O,,2.469
+C20:7,C20H26O2,,
+4-Oxoisotretinoin isomer,C20H26O3,,2.474
+Chaparrinone isomer,C20H26O7,,2.116
+Retinaldehyde isomer,C20H28O,,2.562
+Retinoic Acid,C20H28O2,,2.4
+15-deoxy-delta-12-14-PGJ2,C20H28O3,,2.631
+Carnosic acid isomer,C20H28O4,,2.033
+Carnosic acid isomer,C20H28O4,,2.459
+Carnosic acid,C20H28O4,,4.206
+Gibberellin A14 isomer,C20H28O5,,2.079
+Phorbol isomer,C20H28O6,,2.145
+Pteroside B isomer,C20H28O7,,2.749
+Pteroside P isomer,C20H28O8,,2.966
+Retinol isomer,C20H30O,,2.464
+C20:5,C20H30O2,,2.439
+Neoabietic acid,C20H30O2,,2.577
+15-keto-Prostaglandin E2 isomer,C20H30O5,,2.317
+Prostaglandin E3 isomer 2,C20H30O5,,2.454
+Prostaglandin E3 isomer 1,C20H30O5,,2.759
+CMP-N-glycoloylneuraminate,C20H31N4O17P,,13.936
+glutathione disulfide,C20H32N6O12S2,,14.145
+C20:4,C20H32O2,,2.423
+11(R)-HETE isomer,C20H32O3,,2.625
+11(R)-HETE isomer 2,C20H32O3,,4.195
+DiHETE isomer,C20H32O4,,4.201
+prostaglandin E2,C20H32O5,,2.704
+Cincassiol B isomer,C20H32O8,,4.183
+C20:3,C20H34O2,,2.429
+11-deoxy PGF2alpha isomer,C20H34O4,,2.68
+11-deoxy-PGE1,C20H34O4,,4.198
+Oleandolide isomer,C20H34O7,,3.043
+alpha-Linolenoyl Ethanolamide,C20H35NO2,,2.789
+C20:2,C20H36O2,,2.429
+PGF1alpha,C20H36O5,,4.205
+5_6-Dihydroxyprostaglandin F1a,C20H36O7,,3.062
+N-Oleoyl Glycine isomer,C20H37NO3,,2.656
+C20:1,C20H38O2,,2.417
+2-Oxophytanate,C20H38O3,,2.47
+13_14-dihydro Prostaglandin F1alpha,C20H38O5,,4.205
+1-Oxo-14_17_20_23-tetraoxa-2-thiapentacosan-25-oic acid isomer,C20H38O7S,,2.02
+Oleoyl Ethyl Amide isomer,C20H39NO,,2.616
+Oleoyl Ethanolamide,C20H39NO2,,2.675
+Tridecanoyl carnitine,C20H39NO4,,7.079
+C20:0(Arachidic acid),C20H40O2,311.29556,2.4
+10_20-Dihydroxyeicosanoic acid isomer,C20H40O4,,2.15
+sphingosine(d20:1),C20H41NO2,,2.695
+Dihydroceramide C2,C20H41NO3,,2.888
+Daidzein 4'-O-glucuronide,C21H18O10,,7.827
+Baicalin,C21H18O11,,7.119
+Piperenol A isomer,C21H20O7,,2.587
+Floribundoside isomer,C21H22O10,,7.352
+Floribundoside isomer 2,C21H22O10,,9.542
+Methyl 4-6-di-O-galloyl-beta-D-glucopyranoside isomer,C21H22O14,,13.487
+Equol 7-O-glucuronide,C21H22O9,,7.087
+NAD,C21H27N7O14P2,,13.887
+NADP,C21H28N7O17P3,,14.125
+16alpha-Hydroxyprednisolone isomer,C21H28O6,,2.349
+NADH,C21H29N7O14P2,,13.379
+NADPH,C21H30N7O17P3,,13.946
+C21:6,C21H30O2,,
+cortisol,C21H30O5,,2.81
+6-beta-hydrocortisol,C21H30O6,,2.192
+C21:5,C21H32O2,,2.429
+Tetrahydrocortisone,C21H32O5,364.224975,
+[6]-Gingerdiol 3-5-diacetate isomer,C21H32O6,,2.208
+C21:4,C21H34O2,,
+Tetrahydrodeoxycorticosterone isomer,C21H34O3,,2.19
+dephospho-CoA,C21H35N7O13P2S,,11.662
+Coenzyme A,C21H36N7O16P3S,,13.56
+C21:3,C21H36O2,,2.4
+Linderanolide isomer,C21H36O3,,2.577
+Glucosyl (2E-6E-10x)-10-11-dihydroxy-2-6-farnesadienoate,C21H36O9,,7.087
+tetradecadienoylcarnitine isomer 3,C21H37NO4,,2.606
+tetradecadienoylcarnitine isomer 1,C21H37NO4,,3.136
+tetradecadienoylcarnitine isomer 2,C21H37NO4,,7.094
+O-(hydroxytetradecadienoyl)-L-carnitine,C21H37NO5,,7.128
+C21:2,C21H38O2,,2.39
+tetradecenoylcarnitine isomer 3,C21H39NO4,,2.66
+tetradecenoylcarnitine isomer 1,C21H39NO4,,3.121
+tetradecenoylcarnitine isomer 2,C21H39NO4,,7.069
+N-palmitoyl glutamic acid,C21H39NO5,,2.828
+C21:1,C21H40O2,,2.4
+Netilmicin isomer,C21H41N5O7,,5.262
+Myristoylcarnitine C14:0 isomer 1,C21H41NO4,,3.126
+Myristoylcarnitine C14:0 isomer 2,C21H41NO4,,6.965
+3-hydroxytetradecanoylcarnitine,C21H41NO5,,7.104
+CPA(18:0),C21H41O6P,,4.406
+Azadirone isomer,C21H41O7P,,2.059
+LysoPE(16:1),C21H42NO7P,,3.125
+LysoPE(16:1),C21H42NO7P,,7.097
+C21:0,C21H42O2,,2.37
+lysoPE(16:0),C21H44NO6P,,3.128
+LysoPE(P-16:0),C21H44NO6P,,7.099
+LysoPE(16:0),C21H44NO7P,,3.116
+LysoPE(16:0),C21H44NO7P,,7.1
+Podophyllotoxone isomer,C22H20O8,,11.205
+Canrenone,C22H28O3,,2.606
+15beta-Hydroxydesogestrel isomer,C22H30O2,,2.375
+Etiprednol isomer,C22H30O5,,2.119
+C22:6,C22H32O2,,2.382
+2-(S-Glutathionyl)acetyl glutathione,C22H34N6O13S2,,13.951
+C22:5,C22H34O2,,2.423
+Butyl isodecyl phthalate isomer,C22H34O4,,4.186
+C22:4,C22H36O2,,2.414
+20-HETE Ethanolamide isomer,C22H37NO3,,2.616
+C22:3,C22H38O2,,2.398
+C22:2,C22H40O2,,2.401
+D-Pantethine,C22H42N4O8S2,553.23712,7.06
+C22:1,C22H42O2,,2.385
+LPC(14:1) isomer,C22H44NO7P,,3.131
+LysoPC(14:1),C22H44NO7P,,7.109
+Docosanamide isomer,C22H45NO,,2.592
+LysoPC(14:0),C22H46NO7P,,7.099
+Dioctyl phosphate;tris(1-hydroxyethyl)azanium isomer,C22H50NO7P,,2.606
+17-phenyl-trinor-PGE2 isomer,C23H30O5,,2.229
+Melleolide E isomer,C23H30O7,,2.208
+Cortisol 21-acetate isomer,C23H32O6,,2.224
+Pregnenolone acetate isomer,C23H34O3,,2.18
+Acetyl-CoA,C23H38N7O17P3S,,13.457
+C23:4,C23H38O2,,
+C23:3,C23H40O2,,
+hexadecadienoyl carnitine C16:2 isomer 3,C23H41NO4,,2.675
+hexadecadienoyl carnitine C16:2 isomer 1,C23H41NO4,,3.136
+hexadecadienoyl carnitine C16:2 isomer 2,C23H41NO4,,6.739
+LysoPE(18:3),C23H42NO7P,,7.113
+C23:2,C23H42O2,,
+palmitoleoylcarnitine C16:1 isomer 4,C23H43NO4,,2.675
+palmitoleoylcarnitine C16:1 isomer 1,C23H43NO4,,3.116
+palmitoleoylcarnitine C16:1 isomer 2,C23H43NO4,,4.597
+palmitoleoylcarnitine C16:1 isomer 3,C23H43NO4,,6.492
+3-hydroxypalmitoleoylcarnitine,C23H43NO5,,7.104
+hexadecanedioic acid mono-L-carnitine ester,C23H43NO6,,7.928
+LysoPE(18:2) ,C23H44NO7P,,3.116
+LysoPE(18:2),C23H44NO7P,,7.1
+C23:1,C23H44O2,,2.375
+palmitoyl carnitine C16:0 isomer 3,C23H45NO4,,2.533
+palmitoyl carnitine C16:0 isomer 1,C23H45NO4,,3.121
+palmitoyl carnitine C16:0 isomer 2,C23H45NO4,,4.597
+Palmitoyl carnitine C16,C23H45NO4,,6.372
+3-Hydroxyhexadecanoylcarnitine,C23H45NO5,,7.104
+LysoPE(18:1),C23H46NO7P,,3.126
+LysoPE(18:1),C23H46NO7P,,7.094
+C23:0,C23H46O2,,2.35
+LysoPE(18:0),C23H48NO7P,,3.121
+LysoPE(18:0),C23H48NO7P,,7.094
+sphingosylphosphorylcholine,C23H50N2O5P,,2.626
+Dehydrocholic acid,C24H34O5,,
+C24:6,C24H36O2,,2.391
+malonyl-CoA,C24H38N7O19P3S,852.10834,13.46
+C24:5,C24H38O2,,2.398
+3-Dehydrocholate,C24H38O5,,7.1
+propionyl-CoA,C24H40N7O17P3S,822.13416,13.09
+C24:4,C24H40O2,,2.37
+Lithocholic acid,C24H40O3,,2.65
+Hyodeoxycholic acid,C24H40O4,,3
+Hyodeoxycholic acid,C24H40O4,,3.07
+Chenodeoxycholic acid ,C24H40O4,,3.09
+Deoxycholic acid,C24H40O4,,6.68
+cholic acid,C24H40O5,,7.1
+7-Sulfocholic acid,C24H40O8S,,8.381
+C24:3,C24H42O2,,2.36
+maltotetraose isomer,C24H42O21,,15.298
+C24:2,C24H44O2,,2.35
+C24:1,C24H46O2,,2.363
+Heptadecanoyl carnitine,C24H47NO4,,6.121
+LysoPC(16:1),C24H48NO7P,,3.131
+LysoPC(16:1),C24H48NO7P,,7.099
+C24:0(Lignoceric acid),C24H48O2,,2.34
+LysoPG(18:0),C24H49O9P,,2.883
+LysoPC(P-16:0),C24H50NO6P,,7.104
+LysoPC(16:0),C24H50NO7P,,3.131
+LysoPC(16:0),C24H50NO7P,,7.099
+Mulberrin isomer,C25H26O6,,12.544
+Budesonide isomer,C25H34O6,,2.166
+Coscinalactone isomer,C25H36O3,,2.16
+Erinacine B isomer,C25H36O6,,2.294
+acetoacetyl-CoA,C25H40N7O18P3S,850.12909,13.04
+Malyl-CoA,C25H40N7O20P3S,,2.459
+N-Palmitoyl tyrosine,C25H41NO4,,2.656
+Stearidonyl carnitine,C25H41NO4,,6.472
+Butyryl-CoA,C25H42N7O17P3S,,13.221
+b-hydroxyisobutyryl-CoA,C25H42N7O18P3S,C01159,13.15
+3-Hydroxybutyryl-CoA,C25H42N7O18P3S,,13.526
+LysoPE(20:5),C25H42NO7P,,3.113
+LysoPE(20:5),C25H42NO7P,,7.104
+MG(22:4),C25H42O4,,2.495
+linolenylcarnitine isomer,C25H43NO4,,3.121
+linolenylcarnitine,C25H43NO4,,6.412
+LysoPE(20:4),C25H44NO7P,,3.107
+lysoPE(20:4),C25H44NO7P,,7.099
+C25:3,C25H44O2,,
+linoleoyl carnitine C18:2 isomer,C25H45NO4,,3.121
+Linoleoyl carnitine C18:2,C25H45NO4,,6.241
+LysoPE(20:3),C25H46NO7P,,7.104
+C25:2,C25H46O2,,
+Oleoylcarnitine isomer 3,C25H47NO4,,2.547
+Oleoylcarnitine isomer 1,C25H47NO4,,3.116
+Oleoylcarnitine isomer 2,C25H47NO4,,4.587
+Oleoylcarnitine,C25H47NO4,,6.017
+3-Hydroxy-11Z-octadecenoylcarnitine,C25H47NO5,,2.656
+3-hydroxyoleoylcarnitine,C25H47NO5,,7.094
+lysoPE(20:2),C25H48NO7P,,7.103
+C25:1,C25H48O2,,2.35
+stearoylcarnitine isomer,C25H49NO4,,3.116
+stearoylcarnitine,C25H49NO4,,5.922
+3-hydroxyoctadecanoylcarnitine,C25H49NO5,,7.094
+LysoPI(16:0),C25H49O12P,,7.094
+LysoPE(20:1),C25H50NO7P,,7.099
+C25:0,C25H50O2,,2.34
+LysoPE(20:0) ,C25H52NO7P,,3.131
+LysoPE(20:0),C25H52NO7P,,7.099
+Heterophylol isomer,C26H32O4,,2.1
+Cabergoline isomer,C26H37N5O2,,2.259
+Militarinone A,C26H37NO6,,
+10-Desacetyltaxuyunnanin C isomer,C26H38O7,,2.382
+Taurodehydrocholic acid,C26H39NO7S,,
+C26:6,C26H40O2,,2.37
+Pentenoyl-CoA,C26H42N7O17P3S,,13.202
+C26:5,C26H42O2,,2.35
+glycolithocholic acid,C26H43NO4,,2.685
+deoxycholic acid,C26H43NO5,,2.685
+glycocholic acid peak split,C26H43NO6,,2.135
+glycocholic acid,C26H43NO6,,2.794
+glycocholic acid,C26H43NO6,,7.288
+Sulfoglycolithocholate isomer,C26H43NO7S,,2.933
+Sulfoglycolithocholate,C26H43NO7S,,4.177
+Sulfoglycolithocholate isomer 2,C26H43NO7S,,7.081
+Pentanoyl-CoA,C26H44N7O17P3S,,13.094
+C26:4,C26H44O2,,2.33
+Taurolithocholic acid,C26H45NO5S,,2.514
+Taurodeoxycholic acid,C26H45NO6S,,2.893
+Taurodeoxycholic acid isomer,C26H45NO6S,,4.187
+Taurocholic acid isomer,C26H45NO7S,,3.09
+Taurocholic acid,C26H45NO7S,,7.069
+C26:3,C26H46O2,,2.33
+LysoPC(18:3),C26H48NO7P,,11.818
+C26:2,C26H48O2,,2.32
+LysoPC(18:2),C26H50NO7P,,3.126
+LysoPC(18:2),C26H50NO7P,,7.099
+C26:1,C26H50O2,,2.36
+LysoPC(P-18:1),C26H52NO6P,,7.099
+LysoPC(18:1) ,C26H52NO7P,,3.136
+LysoPC(18:1),C26H52NO7P,,7.099
+C26:0(Cerotic acid),C26H52O2,,2.33
+LysoPC(P-18:0),C26H54NO6P,,7.084
+LysoPC(18:0),C26H54NO7P,,3.126
+LysoPC(18:0),C26H54NO7P,,7.094
+Lyso-PAF C-18,C26H56NO6P,,7.089
+FAD,C27H33N9O15P2,,12.444
+Kammogenin isomer,C27H40O5,,2.962
+1_25-Dihydroxyvitamin D3-26_23-lactone,C27H40O5,,4.201
+Glaucasterol isomer,C27H42O,,2.582
+3-Dehydro-2-deoxyecdysone,C27H42O5,,4.205
+Podecdysone B isomer,C27H42O6,,7.091
+Solasodine,C27H43NO2,,2.774
+HMG-CoA,C27H44N7O20P3S,911.157479,
+LysoPE(22:6),C27H44NO7P,,3.111
+LPE(22:6) isomer,C27H44NO7P,,7.089
+7-dehydrocholesterol,C27H44O,,2.567
+7-ketocholesterol,C27H44O2,,2.631
+Calcitriol,C27H44O3,,2.764
+Neosolaspigenin isomer,C27H44O5,,4.208
+Hexanoyl-CoA,C27H46N7O17P3S,,12.756
+LysoPE(22:5),C27H46NO7P,,7.094
+dihydroxycholesterol,C27H46O3,,2.754
+Cholesteryl sulfate,C27H46O4S,,1.96
+LysoPE(22:4),C27H48NO7P,,7.091
+LysoPI(18:1),C27H51O12P,,7.089
+arachidoyl carnitine C20:0  isomer,C27H53NO4,,2.533
+arachidoyl carnitine C20:0,C27H53NO4,,5.572
+LysoPI(18:0),C27H53O12P,,7.099
+LysoPE(22:1),C27H54NO7P,,7.089
+LysoPE(22:0) ,C27H56NO7P,,3.151
+LysoPE(22:0) ,C27H56NO7P,,7.094
+Macrocarpal C isomer,C28H38O5,,2.965
+Taxuyunnanin isomer,C28H40O8,,4.179
+Maesol isomer,C28H42O4,,4.192
+Pubescenol isomer,C28H42O6,,4.205
+hyaluronate,C28H44N2O23,,
+Stoloniferone C isomer,C28H44O3,,2.385
+LysoPC(20:5) ,C28H48NO7P,,3.136
+LysoPC(20:5),C28H48NO7P,,7.099
+Trihydroxycoprostanoic acid,C28H48O5,,2.157
+LysoPC(20:4),C28H50NO7P,,3.116
+LysoPC(20:4),C28H50NO7P,,4.597
+LysoPC(20:4) ,C28H50NO7P,,7.094
+LysoPC(20:3),C28H52NO7P,,3.121
+LysoPC(20:3),C28H52NO7P,,7.099
+LysoPC(20:2),C28H54NO7P,,7.099
+LysoPC(20:1),C28H56NO7P,,3.116
+LysoPC(20:1),C28H56NO7P,,7.099
+lysoPS(22:0),C28H56NO9P,,3.119
+Coenzyme Q4,C29H42O4,,2.58
+Minabeolide-8 isomer,C29H42O5,,4.186
+Hecogenin acetate isomer,C29H44O5,,3.014
+(17alpha-23S)-Epoxy-28-29-dihydroxy-27-norlanost-8-ene-3-24-dione,C29H44O5,,4.205
+Hecogenin acetate isomer 2,C29H44O5,,7.062
+Cervonyl carnitine,C29H45NO4,,5.672
+Neotigogenin acetate isomer,C29H46O4,,4.22
+16-Epidesacetylfusidic acid isomer,C29H46O5,,4.189
+Clupanodonyl carnitine,C29H47NO4,,5.758
+Saringosterol isomer,C29H48O2,,2.513
+Messagenin isomer,C29H48O3,,2.572
+LysoPI(20:4),C29H49O12P,,7.094
+Octanoyl-CoA,C29H50N7O17P3S,,11.918
+Docosyl 4-hydroxybenzoate isomer,C29H50O3,,2.503
+6-Deoxohomodolichosterone,C29H50O4,,2.511
+Orlistat isomer,C29H53NO5,,2.577
+behenoyl carnitine 22:0,C29H57NO4,,5.317
+LysoPE(24:0),C29H60NO7P,,7.099
+Glyoxylic acid ,C2H2O3,,11.09
+Oxalic acid,C2H2O4,,13.539
+Oxalic acid isomer,C2H2O4,,13.941
+Glycolic acid,C2H4O3,,9.09
+glycine,C2H5NO2,,13.276
+Phosphonoacetaldehyde isomer,C2H5O4P,,7.104
+Phosphonoacetaldehyde,C2H5O4P,,13.536
+acetylphosphate,C2H5O5P,,14.066
+Phosphoglycolic acid,C2H5O6P,,13.97
+Isethionate,C2H6O4S,,2.41
+2-Hydroxyethanesulfonate isomer 1,C2H6O4S,,2.417
+2-Hydroxyethanesulfonate,C2H6O4S,,6.993
+2-Hydroxyethanesulfonate isomer 2,C2H6O4S,,11.802
+Methylguanidine,C2H7N3,,10.475
+Hypotaurine,C2H7NO2S,,12.842
+taurine,C2H7NO3S,,11.147
+Cysteamine ,C2H7NS,,2.68
+Dimethyl phosphate isomer,C2H7O4P,,13.454
+O-Phosphorylethanolamine,C2H8NO4P,,14.174
+Dihydromorelloflavone isomer,C30H22O11,,2.404
+Propapyriogenin A2 isomer 1,C30H44O5,,2.482
+Propapyriogenin A2 isomer 2,C30H44O5,,2.723
+Ganoderic acid isomer,C30H44O6,,7.985
+Adynerin isomer,C30H44O7,,3.007
+Glabric acid isomer 2,C30H46O5,,2.501
+Glabric acid isomer,C30H46O5,,3.046
+Ganolucidic acid B isomer,C30H46O6,,2.807
+Esculentic acid isomer,C30H46O6,,7.584
+6-methyloctanoyl-CoA,C30H48N7O17P3S,,12.029
+Amyrone isomer,C30H48O,,2.508
+Corosolic acid isomer,C30H48O4,,2.991
+7-Methyl-3-oxooctanoyl-CoA,C30H50N7O18P3S,,13.05
+LysoPC(22:6) isomer 1,C30H50NO7P,,3.116
+LysoPC(22:6) isomer 2,C30H50NO7P,,7.099
+LysoPC(22:5),C30H52NO7P,,7.099
+Maltopentaose,C30H52O26,,15.803
+Fasciculol C isomer,C30H52O6,,7.018
+LysoPC(20:0) ,C30H53N3O6,,3.151
+LysoPC(20:0),C30H53N3O6,,7.094
+LysoPC(22:4),C30H54NO7P,,7.084
+LysoPC(22:1),C30H60NO7P,,7.099
+LysoPC(22:0),C30H62NO7P,,7.099
+Arg Thr Arg Asn isomer,C31H39N5O4,,7.109
+3-keto Fusidic acid isomer,C31H46O7,,2.798
+Decenoyl-CoA,C31H52N7O17P3S,,11.642
+Arachidonyl carnitine,C31H53NO4,,5.372
+carnitine 24:0,C31H61NO4,,5.062
+ceramide(d18:1/14:0),C32H63NO3,,2.611
+LysoPC(24:1),C32H64NO7P,,7.099
+LysoPC(24:0),C32H66NO7P,,7.089
+Bilirubin,C33H36N4O6,,2.29
+Dihydroergotamine isomer,C33H37N5O5,,2.185
+Asparagoside A isomer,C33H54O8,,4.198
+dodecenoyl-CoA,C33H56N7O17P3S,,11.225
+carnitine C26:0,C33H65NO4,,2.51
+Protoporphyrin,C34H34N4O4,,7.005
+Hematoporphyrin,C34H38N4O6,598.279136,2.4
+Flavidulol C isomer,C34H42O4,,7.069
+PS(28:1),C34H64NO10P,,4.873
+ceramide(d18:1/16:1),C34H65NO3,,2.592
+ceramide(d18:1/16:0),C34H67NO3,,2.592
+ceramide-dihydro (d18:0/16:0),C34H69NO3,,2.557
+Corchorusoside D isomer,C35H54O14,,7.118
+Tetradecadienoyl-CoA,C35H58N7O17P3S,,11.21
+tetradecenoyl-CoA,C35H60N7O17P3S,,11.152
+Tetradecanoyl-CoA,C35H62N7O17P3S,,11.113
+carnitine C28:0,C35H69NO4,,2.5
+Telaprevir isomer,C36H53N7O6,,7.089
+Prosapogenin isomer,C36H54O11,,7.072
+Prosapogenin isomer 2,C36H54O11,,9.869
+oleanolic acid 3-O-beta-D-glucosiduronic acid,C36H56O9,,4.192
+Momordicilin isomer,C36H60O3,,2.484
+Ginsenoside Rh3 isomer,C36H60O7,,2.484
+Ginsenoside Rh4 isomer,C36H60O8,,2.474
+PS(30:1),C36H68NO10P,,4.72
+ceramide(d18:1/18:1),C36H69NO3,,2.557
+PA(33:1),C36H69O8P,,2.469
+ceramide(d18:1/18:0),C36H71NO3,,2.592
+PC(28:0),C36H72NO8P,,4.519
+Janthitrem E isomer,C37H49NO6,,3.119
+3-Hexaprenyl-4-hydroxybenzoic acid,C37H54O3,,2.11
+DAG(34:4),C37H64O5,,2.479
+Montecristin isomer,C37H66O4,,7.02
+DAG(34:3),C37H66O5,,2.498
+DAG(34:2),C37H68O5,,2.577
+PA(18:2/16:0),C37H69O8P,,6.942
+PE(16:1/16:1),C37H70NO8P,,4.303
+PE(32:2),C37H70NO8P,,6.92
+DAG(34:1),C37H70O5,,2.577
+PA(18:1/16:0),C37H71O8P,,3.512
+PA(18:1/16:0),C37H71O8P,,4.445
+PE(16:1/16:0),C37H72NO8P,,4.265
+PE(32:1),C37H72NO8P,,6.945
+carnitine C30:0,C37H73NO4,,2.49
+SM(d18:1/14:0),C37H75N2O6P,,7.059
+2-Hexaprenyl-3-methyl-6-methoxy-1-4 benzoquinone isomer,C38H56O3,,2.084
+PS(32:1),C38H70NO10P,,5.632
+PS(32:1),C38H72NO10P,,5.417
+PG(16:1/16:0),C38H73O10P,,2.417
+PC(30:1),C38H74NO8P,,4.509
+ceramide(d18:1/20:0),C38H75NO3,,2.592
+PC(14:0/16:0),C38H76NO8P,,3.17
+PC(16:0/14:0),C38H76NO8P,,4.509
+PC (30:0),C38H78NO7P,,4.499
+DAG(36:5),C39H66O5,,2.464
+DAG(36:4) ,C39H68O5,,2.503
+PA(20:4/16:0),C39H69O8P,,3.135
+PA(18:2/18:2),C39H69O8P,,4.31
+DAG(36:3),C39H70O5,,2.538
+PE(16:1/18:2) ,C39H72NO8P,,3.121
+PE(18:2/16:1),C39H72NO8P,,4.246
+PE(16:1/18:2),C39H72NO8P,,4.568
+PE(34:3),C39H72NO8P,,6.965
+PA(18:0/18:2),C39H73O8P,,2.125
+PA(18:2/18:0),C39H73O8P,,3.163
+PA(18:1/18:1),C39H73O8P,,4.419
+PE(16:0/18:2),C39H74NO8P,,4.241
+PE(16:0/18:2),C39H74NO8P,,6.965
+PE(18:1/16:0),C39H76NO8P,,4.281
+PE(34:1),C39H76NO8P,,4.48
+PE(34:0) ,C39H78NO8P,,2.12
+PC(16:0/15:0),C39H78NO8P,,4.494
+SM(d18:1/16:0),C39H79N2O6P,,6.879
+SM(d18:1/16:0),C39H80N2O6P,,2.489
+Methyl phosphoethanolamine,C3H10NO4P,,13.803
+N-Methylethanolamine phosphate,C3H10NO4P,,14.081
+Pyruvaldehyde,C3H4O2,,
+pyruvate,C3H4O3,87.0087,4.08
+Malonic acid isomer,C3H4O4,,4.179
+hydroxypyruvate,C3H4O4,,8.04
+Malonic acid,C3H4O4,103.00368,13.04
+Aminomalonic acid,C3H5NO4,,13.89
+phosphoenolpyruvate,C3H5O6P,,13.976
+lactate,C3H6O3,89.02442,7.8
+lactate,C3H6O3,,8.787
+3-Hydroxypropionic Acid ,C3H6O3,,9.25
+glycerate,C3H6O4,105.01933,10.56
+Guanidoacetic acid,C3H7N3O2,,13.114
+Dimethylformamide,C3H7NO,,11.137
+alanine isomer,C3H7NO2,,4.211
+sarcosine,C3H7NO2,88.04041,12.62
+alanine,C3H7NO2,,12.947
+beta-alanine,C3H7NO2,88.04041,13.35
+cysteine,C3H7NO2S,120.01247,13.82
+serine,C3H7NO3,,13.428
+L-Cysteic acid ,C3H7NO5S,,12.837
+Cysteine S-sulfate,C3H7NO5S2,,9.8
+Glyceraldehyde-3-phosphate,C3H7O6P,,13.798
+3-phosphoglycerate,C3H7O7P,,14.041
+2-Amino-3-phosphonopropionic acid,C3H8NO5P,168.00673,13.79
+D-phospho-L-serine,C3H8NO6P,184.0065,13.94
+2_3-diphosphoglyceric acid,C3H8O10P2,C01159,
+Taurocyamine,C3H9N3O3S,,10.961
+Trimethylamine N-oxide,C3H9NO,,12.776
+Glycerol 3-phosphate,C3H9O6P,,13.748
+7_8-Dihydroparasiloxanthin isomer,C40H60O2,,2.567
+DAG(15:1/22:4),C40H68O5,,2.52
+PG(16:1/18:2),C40H73O10P,,2.41
+PG(16:1/18:2),C40H73O10P,,3.007
+PS(34:2),C40H74NO10P,,7.015
+PE(17:1/18:2),C40H74NO8P,,4.45
+PG(16:0/18:2),C40H75O10P,,2.391
+PS(34:1),C40H76NO10P,,7.015
+PE(35:2),C40H76NO8P,,2.444
+PC(18:2/14:0),C40H76NO8P,,3.126
+PE(17:1/18:1),C40H76NO8P,,3.441
+PE(17:0/18:2),C40H76NO8P,,4.217
+PC(14:0/18:2),C40H76NO8P,,4.47
+ceramide (d18:1/22:1),C40H77NO3,,2.587
+PG(18:1/16:0),C40H77O10P,,2.398
+PG (34:1),C40H77O10P,,4.211
+PE(35:1),C40H78NO8P,,2.454
+PC(16:1/16:0),C40H78NO8P,,3.16
+PC(16:0/16:1),C40H78NO8P,,4.465
+PC(32:1),C40H78NO8P,,7.03
+ceramide (d18:1/22:0),C40H79NO3,,2.596
+PG(16:0/18:0),C40H79O10P,,3.074
+PE(P-35:0),C40H80NO7P,,3.151
+PE(P-35:0),C40H80NO7P,,4.45
+PC(16:0/16:0) ,C40H80NO8P,,3.185
+PC(16:0/16:0) ,C40H80NO8P,,4.489
+PC(32:0) ,C40H80NO8P,,7.04
+DAG(38:8),C41H64O5,,2.464
+DAG(38:6),C41H68O5,,2.459
+PE(16:1/20:5),C41H70NO8P,,3.102
+PE(20:5/16:1),C41H70NO8P,,4.226
+PE(20:5/16:1),C41H70NO8P,,4.607
+DAG(38:5),C41H70O5,,2.459
+DAG(38:5),C41H70O5,,4.151
+PE(P-16:0/20:5),C41H72NO7P,,3.09
+PE(16:1/20:4),C41H72NO8P,,3.077
+PE(16:0/20:5),C41H72NO8P,,4.221
+PE(36:5),C41H72NO8P,,6.935
+PE(P-16:0/20:4),C41H74NO7P,,3.063
+PE(P-20:4/16:0),C41H74NO7P,,4.216
+PE(P-36:4),C41H74NO7P,,4.563
+PE(P-36:4),C41H74NO7P,,6.905
+PE(36:4),C41H74NO8P,,2.14
+PE(20:4/16:0),C41H74NO8P,,3.077
+PE(16:0/20:4),C41H74NO8P,,4.221
+PE(P-16:0/20:4),C41H74NO8P,,6.945
+PE(36:3) ,C41H76NO8P,,2.115
+PE(18:1/18:2) ,C41H76NO8P,,3.18
+PE(18:2/18:1),C41H76NO8P,,4.226
+PE(36:3) ,C41H76NO8P,,6.96
+PE(36:2),C41H78NO8P,,2.13
+PE(18:0/18:2),C41H78NO8P,,2.759
+PC(15:0/18:2),C41H78NO8P,,3.146
+PC(18:2/15:0),C41H78NO8P,,4.45
+PE(18:0/18:2),C41H78NO8P,,6.965
+PE(36:1) ,C41H80NO8P,,2.135
+PC(16:0/17:1),C41H80NO8P,,3.17
+PC(17:1/16:0),C41H80NO8P,,4.431
+SM(d18:1/18:1),C41H81N2O6P,,6.583
+ceramide(d18:1/23:0),C41H81NO3,,2.636
+PE(36:0) ,C41H82NO8P,,2.15
+PE(18:0/18:0),C41H82NO8P,,4.514
+SM(d18:1/18:0),C41H83N2O6P,,6.638
+SM(d18:0/18:0) isomer,C41H85N2O6P,,6.012
+DAG(39:6),C42H70O5,,4.157
+PG(16:1/20:5),C42H71O10P,,2.204
+PS(36:5),C42H72NO10P,,7.005
+PE(20:4/17:2),C42H72NO8P,,3.113
+PE(20:4/17:2),C42H72NO8P,,4.217
+DAG(39:5),C42H72O5,,2.492
+PG(20:4/16:1),C42H73O10P,,2.22
+PS(20:4/16:0),C42H74NO10P,,6.99
+PE(20:4/17:1),C42H74NO8P,,3.119
+PE(20:4/17:1),C42H74NO8P,,4.214
+PC (34:5),C42H74NO8P,,4.368
+PG(18:2/18:2),C42H75O10P,,2.217
+PC(18:3/16:1),C42H76NO8P,,3.121
+PE(20:4/17:0),C42H76NO8P,,4.217
+PC(16:1/18:3),C42H76NO8P,,4.397
+PG(18:1/18:2),C42H77O10P,,2.214
+PS(36:2),C42H78NO10P,,2.214
+PS(18:2/18:0),C42H78NO10P,,7.02
+PC(18:2/16:1),C42H78NO8P,,3.126
+PC(16:1/18:2),C42H78NO8P,,4.407
+PC(16:1/18:2),C42H78NO8P,,7.03
+PG(18:2/18:0),C42H79O10P,,2.217
+PG(18:0/18:2),C42H79O10P,,2.405
+PG(36:2),C42H79O10P,,3.043
+PS(36:1) ,C42H80NO10P,,4.705
+PS(36:1) ,C42H80NO10P,,7.015
+PC(P-34:2),C42H80NO7P,,4.397
+PC(18:2/16:0) ,C42H80NO8P,,3.156
+PC(16:0/18:2),C42H80NO8P,,4.426
+PC(16:0/18:2),C42H80NO8P,,7.035
+ceramide (d18:1/24:1),C42H81NO3,,2.577
+PS(18:0/18:0),C42H82NO10P,,2.933
+PS(18:0/18:0),C42H82NO10P,,4.449
+PE(P-18:0/19:1),C42H82NO7P,,3.17
+PE(P-19:1/18:0),C42H82NO7P,,4.397
+PE(37:1),C42H82NO8P,,2.15
+PE(37:1),C42H82NO8P,,2.459
+PC(16:0/18:1),C42H82NO8P,,7.035
+ceramide (d18:1/24:0),C42H83NO3,,2.641
+PE(P-37:0) ,C42H84NO7P,,2.567
+DAG(40:8),C43H68O5,,2.459
+PE(20:5/18:3),C43H70NO8P,,3.09
+DAG(40:7),C43H70O5,,2.454
+PC(13:1/22:6),C43H72NO8P,,3.072
+PE(16:1/22:6),C43H72NO8P,,4.221
+PC(22:6/13:1),C43H72NO8P,,4.597
+PC(13:1/22:6),C43H72NO8P,,5.190563955
+PC(35:7),C43H72NO8P,,6.935
+DAG(40:6),C43H72O5,,2.498
+PE(P-16:0/22:6),C43H74NO7P,,3.053
+PE(P-38:6),C43H74NO7P,,4.577
+PE(38:6) ,C43H74NO8P,,2.214
+PE(22:6/16:0),C43H74NO8P,,3.072
+PE(16:0/22:6),C43H74NO8P,,4.221
+PE(P-18:1/20:4),C43H76NO7P,,3.058
+PE(P-38:5),C43H76NO7P,,4.216
+PE(20:4/18:1),C43H76NO8P,,3.068
+PE(18:1/20:4),C43H76NO8P,,4.221
+PE(38:5),C43H76NO8P,,6.925
+PE(P-18:0/20:4),C43H78NO7P,,3.141
+PE(P-18:0/20:4),C43H78NO7P,,4.231
+PE(38:4),C43H78NO8P,,2.11
+PE(20:4/18:0),C43H78NO8P,,2.724
+PE(18:0/20:4),C43H78NO8P,,4.221
+PE(18:0/20:4),C43H78NO8P,,6.935
+PI(16:0/18:2),C43H79O13P,,7.031
+PE(38:3) ,C43H80NO8P,,2.115
+PC(17:1/18:2),C43H80NO8P,,3.136
+PC(18:2/17:1),C43H80NO8P,,4.397
+PE(38:2),C43H82NO8P,,2.145
+PC(18:2/17:0),C43H82NO8P,,3.156
+PC(17:0/18:2),C43H82NO8P,,4.402
+PC(35:2),C43H82NO8P,,7.02
+SM(d18:1/20:2),C43H83N2O6P,,6.392
+PI(34:0),C43H83O13P,,6.985
+PE(38:1),C43H84NO8P,,2.145
+PC(16:0/19:1),C43H84NO8P,,4.402
+SM(d18:1/20:0),C43H87N2O6P,,6.387
+PG(22:6/16:1),C44H73O10P,,2.192
+PS(16:0/22:6),C44H74NO10P,,6.995
+PE(22:6/17:1),C44H74NO8P,,3.068
+PE(22:6/17:1),C44H74NO8P,,4.201
+PG(20:4/18:2),C44H75O10P,,2.189
+PS(20:5/18:0),C44H76NO10P,,6.985
+PC(20:5/16:1),C44H76NO8P,,3.116
+PE(22:6/17:0),C44H76NO8P,,4.205
+PC(16:1/20:5),C44H76NO8P,,4.343
+PG(20:4/18:1),C44H77O10P,,2.192
+PS(18:0/20:4),C44H78NO10P,,6.99
+PC(16:0/20:5),C44H78NO8P,,3.116
+PC(20:5/16:0),C44H78NO8P,,4.358
+PC(36:5) ,C44H78NO8P,,7.015
+PG(20:4/18:0),C44H79O10P,,2.198
+PS(20:1/18:2),C44H80NO10P,,4.368
+PS(20:3/18:0),C44H80NO10P,,4.582
+PC(16:0/20:4),C44H80NO8P,,3.131
+PE(20:4/19:0),C44H80NO8P,,4.205
+PC(16:0/20:4),C44H80NO8P,,4.333
+PC(20:4/16:0),C44H80NO8P,,7.01
+PG(22:2/16:1),C44H81O10P,,2.201
+PG(22:2/16:1),C44H81O10P,,2.379
+PC(P-36:3),C44H82NO7P,,3.16
+PC(P-36:3),C44H82NO7P,,4.304
+PE(39:3),C44H82NO8P,,2.135
+PC(18:2/18:1),C44H82NO8P,,3.156
+PC(16:0/20:3),C44H82NO8P,,4.368
+PC(18:1/18:2),C44H82NO8P,,4.913
+PC(36:3) ,C44H82NO8P,,7.02
+PC(P-36:2),C44H84NO7P,,4.353
+PC(18:0/18:2),C44H84NO8P,,3.185
+PC(18:2/18:0),C44H84NO8P,,4.368
+PC(18:0/18:2),C44H84NO8P,,7.03
+PE(22:6/18:3),C45H72NO8P,,4.211
+PC(18:1/18:0),C45H74NO8P,,3.068
+PC(18:0/18:1),C45H74NO8P,,4.216
+PG(22:6/17:1),C45H75O10P,,2.192
+PE(P-18:1/22:6),C45H76NO7P,,3.04
+PE(P-18:1/22:6),C45H76NO7P,,4.211
+PE(18:1/22:6),C45H76NO8P,,3.068
+PC(15:1/22:6),C45H76NO8P,,4.221
+PC(22:6/15:1),C45H76NO8P,,6.91
+PE(22:6/P-18:0),C45H78NO7P,,3.036
+PE(22:6/P-18:0),C45H78NO7P,,4.211
+PE(18:0/22:6) ,C45H78NO8P,,2.705
+PE(22:6/18:0),C45H78NO8P,,3.058
+PE(18:0/22:6) ,C45H78NO8P,,4.206
+PE(40:6),C45H78NO8P,,6.925
+PE(O-18:0/22:6),C45H80NO7P,,3.081
+PE(40:5),C45H80NO8P,,2.115
+PE(40:5),C45H80NO8P,,2.695
+PC(22:5/15:0) ,C45H80NO8P,,3.121
+PC(15:0/22:5),C45H80NO8P,,4.27
+PC(37:5) ,C45H80NO8P,,6.96
+PE(40:4) ,C45H82NO8P,,2.135
+PE(22:4/18:0),C45H82NO8P,,2.7
+PC(20:4/17:0),C45H82NO8P,,3.146
+PE(18:2/22:2),C45H82NO8P,,4.192
+PC(17:0/20:4),C45H82NO8P,,4.304
+PC(37:4),C45H82NO8P,,7.005
+PE(18:3/22:0),C45H84NO8P,,2.13
+PC(16:0/21:3),C45H84NO8P,,3.16
+PC(21:3/16:0),C45H84NO8P,,4.368
+SM(d18:1/22:3),C45H85N2O6P,,6.281
+PE(40:2) ,C45H86NO8P,,2.14
+PC(18:2/19:0),C45H86NO8P,,4.343
+PC(37:2),C45H86NO8P,,7.01
+PE(40:1),C45H88NO8P,,2.135
+SM(d18:1/22:1),C45H89N2O6P,,3.53
+SM(d18:1/22:1),C45H89N2O6P,,6.221
+SM(d18:1/22:0),C45H91N2O6P,,3.608
+SM(d18:1/22:0) ,C45H91N2O6P,,7.079
+PS(22:6/18:3),C46H72NO10P,,5.614
+PG (22:6/18:3),C46H73O10P,,2.18
+PS(40:8)  ,C46H74NO10P,,5.247
+PS (40:8)  ,C46H74NO10P,,6.97
+PG(18:2/22:6),C46H75O10P,,2.179
+PS(40:7),C46H76NO10P,,6.99
+PC(20:5/18:3),C46H76NO8P,,3.116
+PC(18:3/20:5),C46H76NO8P,,4.299
+PG(18:1/22:6),C46H77O10P,,2.176
+PS(40:6),C46H78NO10P,,2.18
+PS(18:0/22:6),C46H78NO10P,,6.985
+PE(22:6/19:1),C46H78NO8P,,3.014
+PC(16:1/22:6),C46H78NO8P,,3.116
+PC(22:6/16:1),C46H78NO8P,,4.294
+PC (38:7) ,C46H78NO8P,,7.005
+PG(18:1/22:5),C46H79O10P,,2.185
+PS(20:5/20:0),C46H80NO10P,,4.303
+PS(18:0/22:5),C46H80NO10P,,4.563
+PC(P-38:6),C46H80NO7P,,4.231
+PC(22:6/16:0),C46H80NO8P,,3.116
+PC(16:0/22:6),C46H80NO8P,,4.29
+PC(16:0/22:6),C46H80NO8P,,7
+PG(18:1/22:4),C46H81O10P,,2.192
+PC(P-38:5),C46H82NO7P,,3.121
+PC(18:1/20:4),C46H82NO8P,,7.01
+PC(P-38:4),C46H84NO7P,,3.136
+PC(P-38:4),C46H84NO7P,,4.255
+PC(18:0/20:4) ,C46H84NO8P,,3.16
+PC(20:4/18:0) ,C46H84NO8P,,4.285
+PC(38:4) ,C46H84NO8P,,7.01
+PC(P-38:3) ,C46H86NO7P,,3.17
+PC(P-38:3) ,C46H86NO7P,,4.27
+PC(18:0/20:3),C46H86NO8P,,7.015
+PC(20:2/18:0),C46H88NO8P,,3.214
+PC(18:0/20:2),C46H88NO8P,,4.343
+PC(38:2),C46H88NO8P,,7.035
+SM(d18:1/23:0) ,C46H93N2O6P,,3.584
+SM(d18:1/23:0) ,C46H93N2O6P,,7.074
+PE(20:4/22:6),C47H74NO8P,,3.043
+PE(20:4/22:6),C47H74NO8P,,4.201
+PE(42:9) ,C47H76NO8P,,3.058
+PE(42:9) ,C47H76NO8P,,4.216
+PE(22:6/20:2),C47H78NO8P,,2.69
+PC(39:8),C47H78NO8P,,4.197
+DAG(44:7),C47H78O5,,2.233
+PE(42:7),C47H80NO8P,,2.69
+PC(22:6/17:1),C47H80NO8P,,3.111
+DAG(44:6),C47H80O5,,2.326
+PI(18:1/20:4),C47H81O13P,,3.131
+PE(42:6),C47H82NO8P,,2.69
+PC(22:6/17:0),C47H82NO8P,,3.146
+PC(17:0/22:6),C47H82NO8P,,4.275
+PC(P-40:5),C47H82NO8P,,7
+PI(20:4/18:0),C47H83O13P,,3.144
+PE(42:5),C47H84NO8P,,2.135
+PE(42:4) ,C47H86NO8P,,2.14
+PC(39:4),C47H86NO8P,,3.175
+PC(39:4),C47H86NO8P,,4.265
+PE(42:3) ,C47H88NO8P,,2.14
+PE(42:3) ,C47H88NO8P,,2.489
+PC(18:0/21:3),C47H88NO8P,,4.304
+PE(42:2),C47H90NO8P,,2.135
+PE(42:2),C47H90NO8P,,2.454
+SM(d18:1/24:1),C47H93N2O6P,,3.584
+SM(d18:1/24:1) ,C47H93N2O6P,,6.061
+SM(d18:1/24:0),C47H95N2O6P,,7.079
+PS(42:9),C48H76NO10P,,5.232
+PC (22:6/18:3),C48H78NO8P,,3.116
+PC (18:3/22:6),C48H78NO8P,,4.275
+PC(18:2/22:6),C48H80NO8P,,3.116
+PC(22:6/18:1),C48H80NO8P,,4.27
+PC(40:8) ,C48H80NO8P,,6.985
+PC(18:1/22:6),C48H82NO8P,,3.116
+PC(22:6/18:1),C48H82NO8P,,4.25
+PC(40:7),C48H82NO8P,,6.99
+PS(42:5) isomer 2,C48H84NO10P,,2.17
+PS(22:1/20:4),C48H84NO10P,,3.113
+PS(42:5) isomer 1,C48H84NO10P,,4.563
+PC(P-40:6) ,C48H84NO7P,,3.106
+PC(P-40:6) ,C48H84NO7P,,4.226
+PC(18:0/22:6),C48H84NO8P,,3.156
+PC(22:6/18:0),C48H84NO8P,,4.25
+PC(40:6) ,C48H84NO8P,,6.99
+PC(P-40:5),C48H86NO7P,,3.131
+PC(P-40:5),C48H86NO7P,,4.255
+PC(20:4/20:0),C48H88NO8P,,4.26
+PC(40:4),C48H88NO8P,,7.005
+PC(40:2),C48H92NO8P,,3.54
+PC(18:0/22:5),C49H74NO8P,,3.038
+PE(44:8),C49H82NO8P,,2.675
+PI(22:6/18:0),C49H83O13P,,3.135
+PE(44:7) ,C49H84NO8P,,2.135
+PE(44:7) ,C49H84NO8P,,2.68
+PC(19:1/22:6),C49H84NO8P,,3.126
+PC(22:6/19:1),C49H84NO8P,,4.255
+PC(19:0/22:6),C49H86NO8P,,3.16
+PC(22:6/19:0),C49H86NO8P,,4.25
+PC(41:6),C49H86NO8P,,4.7
+PE(44:5),C49H88NO8P,,2.135
+PE(44:4),C49H90NO8P,,2.12
+PI (40:0),C49H95O13P,,2.209
+Creatine phosphate ,C4H10N3O5P,,13.828
+O-phosphohomoserine,C4H10NO6P,199.024577,14.0775
+O-Phospho-4-hydroxy-L-threonine,C4H10NO7P,,2.033
+1-Butanethiol isomer,C4H10S,,2.839
+Diethanolamine,C4H11NO2,,11.8
+Diethylthiophosphate,C4H11O3PS,169.00937,2.39
+Phosphodimethylethanolamine,C4H12NO4P,,13.976
+uracil,C4H4N2O2,,7.613
+fumarate,C4H4O4,,12.99
+cytosine,C4H5N3O,110.03599,7.99
+2-Aminosuccinate,C4H5NO4,,13
+1-Methyl-hydantoin,C4H6N2O2,,3.78
+Dihydrouracil,C4H6N2O2,,4.5
+2 4-Diamino-6-hydroxypyrimidine,C4H6N4O,126.054161,
+allantoin,C4H6N4O3,,8.051
+2-Ketobutyric acid,C4H6O3,,2.83
+acetoacetate,C4H6O3,,4.176
+Methylmalonic acid,C4H6O4,117.01933,11.63
+succinate,C4H6O4,,13.29
+Thiodiacetic acid,C4H6O4S,,13.144
+malate,C4H6O5,,13.473
+Tartaric acid,C4H6O6,149.00916,13.3
+Creatinine,C4H7N3O,,7.652
+1-Aminocyclopropane-1-carboxylic acid,C4H7NO2,,4.197
+Acetylglycine,C4H7NO3,116.03532,8.73
+aspartate,C4H7NO4,,13.555
+N-Nitroso-3-hydroxypyrrolidine,C4H8N2O2,,12.463
+3-Ureidopropionic acid,C4H8N2O3,,11
+Glycyl-glycine,C4H8N2O3,,12.414
+asparagine,C4H8N2O3,,13.374
+N-carbamoylsarcosine,C4H8N2O3,,
+Phosphocreatinine,C4H8N3O4P,,13.659
+allantoate,C4H8N4O4,,12.685
+isobutyrate,C4H8O2,,3.42
+Butyrate,C4H8O2,,6.63
+2-hydroxybutyrate,C4H8O3,,7.119
+3-hydroxyisobutyrate,C4H8O3,,8.39
+3-hydroxybutyrate,C4H8O3,,8.955
+4-hydroxybutyrate,C4H8O3,,10
+L-Threonic acid ,C4H8O5,,11.664
+creatine,C4H9N3O2,,13.011
+Dimethylglycine,C4H9NO2,,11.421
+2-aminobutyrate,C4H9NO2,,12.102
+2-Aminobutyric acid,C4H9NO2,,12.609
+3-Aminobutyric acid,C4H9NO2,,13.011
+gamma-Aminobutryic acid,C4H9NO2,,13.442
+homocysteine,C4H9NO2S,134.02812,10.75
+Methylcysteine,C4H9NO2S,134.02812,10.77
+Threonine isomer,C4H9NO3,,12.059
+threonine,C4H9NO3,,13.001
+L-Homoserine,C4H9NO3,118.05096,13.31
+Methiin isomer,C4H9NO3S,,2.833
+homocysteic acid,C4H9NO5S,,12.553
+D-erythrose-4-phosphate,C4H9O7P,199.00131,13.76
+PS(22:6/22:4),C50H78NO10P,,2.155
+PC(22:6/20:5),C50H78NO8P,,4.241
+PC(22:6/20:4),C50H80NO8P,,3.111
+PC(20:4/22:6),C50H80NO8P,,4.236
+PC(22:5/20:4),C50H82NO8P,,3.126
+PC(22:6/20:3),C50H82NO8P,,4.25
+PC(20:2/22:6) ,C50H84NO8P,,3.121
+PC(22:6/20:2),C50H84NO8P,,4.255
+PC(22:6/20:1),C50H86NO8P,,3.151
+PC(20:1/22:6) ,C50H86NO8P,,4.241
+PC(22:6/20:0),C50H88NO8P,,3.18
+PC(20:0/22:6) ,C50H88NO8P,,4.241
+PC(22:6/22:6) ,C52H80NO8P,,3.106
+PC(22:6/22:6) ,C52H80NO8P,,4.231
+Coenzyme Q9,C54H82O4,,2.582
+1-Aminoproline,C5H10N2O2,,12.903
+glutamine isomer,C5H10N2O3,,5.472
+isoglutamine,C5H10N2O3,,11.205
+glutamine,C5H10N2O3,,13.355
+L-Cys-Gly isomer 2,C5H10N2O3S,,2.839
+L-Cys-Gly isomer,C5H10N2O3S,,3.696
+Ser-Gly,C5H10N2O4,,11.983
+Valeric acid,C5H10O2,,4
+Isovaleric acid,C5H10O2,101.06081,12.01
+2-Hydroxyvaleric acid,C5H10O3,,4
+2-hydroxy-isovalerate,C5H10O3,,4.96
+3-Hydroxyisovaleric acid,C5H10O3,,6
+2-Deoxy-D-ribose,C5H10O4,,7.12
+ribose isomer 2,C5H10O5,,8.118
+ribose isomer 3,C5H10O5,,9.604
+D-Xylose,C5H10O5,149.04555,10.04
+xylose,C5H10O5,,10.04
+DL-Arabinose,C5H10O5,149.04555,10.6
+Ribose,C5H10O5,149.04555,10.6
+ribose isomer 1,C5H10O5,,11.273
+Arabinonic acid isomer,C5H10O6,,12.023
+Arsenobetaine,C5H11AsO2,,10.559
+4-Guanidinobutanoic acid isomer,C5H11N3O2,,12.399
+4-Guanidinobutanoic acid,C5H11N3O2,,13.187
+Betaine aldehyde,C5H11NO,101.084064,
+betaine,C5H11NO2,116.0717,10.21
+5-aminovaleric acid,C5H11NO2,,10.56
+valine,C5H11NO2,,11.136
+5-Aminopentanoic acid,C5H11NO2,116.0717,13.57
+N-Methyl-a-aminoisobutyric acid,C5H11NO2,116.0717,13.57
+Methionine isomer,C5H11NO2S,,6.548
+methionine,C5H11NO2S,,10.046
+n-ethyl-d-serine isomer,C5H11NO3,,11.878
+n-ethyl-d-serine isomer,C5H11NO3,,12.721
+ethyl serine isomer,C5H11NO3,,13.438
+Methionine sulfoxide,C5H11NO3S,,13.131
+deoxyribose-phosphate,C5H11O7P,,13.747
+ribose-5-phosphate,C5H11O8P,,13.847
+ornithine,C5H12N2O2,,16.182
+N-lactoyl ethanolamine phosphate ,C5H12NO6P,,14.031
+Phosphoribosylamine,C5H12NO7P,,13.981
+Ribose 1_5-diphosphate,C5H12O11P2,,14
+Adonitol,C5H12O5,,10.061
+Choline,C5H13NO,,11.108
+Phosphoribosyl pyrophosphate,C5H13O14P3,389.951824,13.8
+Phosphorylcholine,C5H14NO4P,,14.263
+Glycerylphosphorylethanolamine,C5H14NO6P,,13.59
+orotate,C5H4N2O4,155.00983,7.85
+purine,C5H4N4,119.03632,6.18
+hypoxanthine,C5H4N4O,,7.709
+xanthine,C5H4N4O2,,9.05
+Uric acid,C5H4N4O3,,11.572
+5-hydroxyisourate,C5H4N4O4,,9.651
+3-Furoic acid,C5H4O3,,4.08
+adenine,C5H5N5,134.04723,7.28
+guanine,C5H5N5O,,8.719
+2-Hydroxypyridine isomer,C5H5NO,,13.418
+thymine,C5H6N2O2,,5.534
+Imidazoleacetic acid,C5H6N2O2,,11.215
+5-Hydroxymethyluracil,C5H6N2O3,141.03056,7.29
+L-Hydroorotic acid,C5H6N2O4,,9.21
+dihydroorotic acid,C5H6N2O4,,13.118
+Pyrazinemethanethiol,C5H6N2S,,12.185
+Glutaconic acid,C5H6O4,129.01933,13.51
+Citraconic acid,C5H6O4,,13.902
+a-ketoglutarate,C5H6O5,,12.793
+5-Methylcytosine,C5H7N3O,,7.85
+2-Methyl-2_5-dihydro-1_3-thiazole-4-carboxylic acid isomer,C5H7NO2S,,7.812
+Pyroglutamic acid,C5H7NO3,128.03532,9.03
+(R)-(+)-2-Pyrrolidone-5-carboxylic acid,C5H7NO3,,9.35
+2-Hydroxy-5-oxo-L-proline isomer,C5H7NO4,,4.208
+alpha-Ketoglutaramate,C5H7NO4,,7.535
+N-Formyl-L-aspartate,C5H7NO5,,13.438
+Dihydrothymine,C5H8N2O2,,4.13
+Pyroglutamine,C5H8N2O2,,12.802
+Dihydrothymine isomer,C5H8N2O2,,13.261
+N-carbamoyl-asp (Ureidosuccinic acid),C5H8N2O5,175.03604,13.26
+Tiglic acid,C5H8O2,99.04515,4.07
+2-keto-isovalerate,C5H8O3,C00141,2.45
+Dimethylmalonic acid,C5H8O4,131.03499,9.07
+Glutaric acid,C5H8O4,131.03499,12.24
+2-Methylsuccinic acid,C5H8O4,,12.79
+Methylsuccinic acid,C5H8O4,131.03499,11
+2-hydroxyglutarate,C5H8O5,,13.338
+(R)-(-) Citramalic acid,C5H8O5,,13.5
+2-Dehydro-D-xylonate isomer,C5H8O6,,13.934
+Histamine isomer,C5H9N3,,13.594
+Histamine,C5H9N3,,15.991
+Guanidinosuccinic acid,C5H9N3O4,,13.565
+proline,C5H9NO2,,11.858
+Thiomorpholine 3-carboxylate,C5H9NO2S,,7.109
+2-Sulfanyl-L-proline isomer,C5H9NO2S,,12.499
+N-Acetyl-L-alanine,C5H9NO3,,8.745
+N-acetyl-ala,C5H9NO3,,9.086
+Aminolevulinic acid,C5H9NO3,130.05096,12.21
+hydroxyproline,C5H9NO3,,12.951
+N-Propionylglycine,C5H9NO3,,13.15
+N-acetyl-cysteine,C5H9NO3S,,7.392
+N-Acetylserine,C5H9NO4,,11.174
+N-Methyl-D-aspartic acid,C5H9NO4,146.04588,12.87
+glutamate,C5H9NO4,,13.462
+5-(2-aminoethyl)thiophene-2-sulfonamide isomer,C6H10N2O2S2,,4.236
+5-(2-aminoethyl)thiophene-2-sulfonamide isomer,C6H10N2O2S2,,4.568
+4-Methylene-L-glutamine isomer,C6H10N2O3,,9.199
+4-methylene-glutamine,C6H10N2O3,,11.22
+Oxiracetam isomer,C6H10N2O3,,13.61
+N-Acetylasparagine,C6H10N2O4,,10.64
+Formimino-L-glutamic acid,C6H10N2O4,,13.487
+Asp Gly,C6H10N2O5,,13.669
+2-keto-isocaproate,C6H10O3,129.05573,2.57
+4-Acetylbutyrate isomer,C6H10O3,,2.632
+Adipic acid isomer,C6H10O4,,8.905
+Methylglutaric acid,C6H10O4,145.0506,11.65
+Adipic acid,C6H10O4,145.05063,12.23
+2-Methylglutaric acid,C6H10O4,145.05063,12.47
+3-Methylglutaric acid,C6H10O4,145.05063,12.59
+1_6-anhydro-b-D-Glucose,C6H10O5,,6.58
+3-hydroxy-3-methyl-Glutaric acid,C6H10O5,,12.98
+3-hydroxy-3-methyl-Glutaric acid isomer,C6H10O5,,13.309
+L-Gulonolactone isomer,C6H10O6,,7.037
+glucono-lactone,C6H10O6,,12.592
+5-Keto-D-gluconic acid ,C6H10O7,,11
+2-dehydrogluconate,C6H10O7,C00629,12.81
+Galacturonic acid,C6H10O7,,13.422
+Mucic acid,C6H10O8,,13.88
+D-Saccharic acid ,C6H10O8,,14
+1-Methylhistamine,C6H11N3,,15.171
+Histidinol,C6H11N3O,141.090212,
+Pipecolic acid isomer,C6H11NO2,,4.504
+Pipecolic acid isomer,C6H11NO2,,10.044
+DL-Pipecolic acid,C6H11NO2,,11.58
+Pipecolic acid isomer,C6H11NO2,,12.469
+L-Pipecolic acid,C6H11NO2,,16.842
+S-Allyl-L-cysteine,C6H11NO2S,,7.57
+4-Acetamidobutyric acid,C6H11NO3,,7
+N-butyrylglycine,C6H11NO3,,7.502
+4-acetamidobutanoate isomer,C6H11NO3,,12.67
+N-Formyl-L-methionine,C6H11NO3S,,7.103
+N-Acetylthreonine,C6H11NO4,,9.17
+Aminoadipic acid,C6H11NO4,,13.585
+D-Glucuronic acid 1-phosphate,C6H11O10P,,14.124
+Inositol cyclic phosphate isomer 1,C6H11O8P,,11.56
+Inositol cyclic phosphate isomer 2,C6H11O8P,,12.131
+Inositol cyclic phosphate,C6H11O8P,,14.11
+6-phosphogluconolactone,C6H11O9P,C01236,13.84
+N-Methyl-D-glutamine isomer,C6H12N2O3,,5.597
+N5-methyl-L-glutamine,C6H12N2O3,,12.655
+Ala Ala isomer,C6H12N2O3,,13.229
+Ser-Ala,C6H12N2O4,,11.205
+Ala Ser,C6H12N2O4,,12.069
+cystine,C6H12N2O4S2,C00491,13.66
+aspartyltaurine,C6H12N2O6S,,13.434
+2-Ethylbutyraldehyde isomer,C6H12O,,4.186
+4-Methylvaleric acid,C6H12O2,,3
+2-Hydroxycaproic acid,C6H12O3,,2.9
+Leucinic acid,C6H12O3,,3.062
+2-hydroxy-b-methylvalerate,C6H12O3,,3.77
+hydroxyisocaproic acid,C6H12O3,,4.176
+L-Rhamnose ,C6H12O5,,8.11
+L-Fucose,C6H12O5,,9.03
+2-Deoxyglucose,C6H12O5,,11.383
+Fructose,C6H12O6,179.05611,10.65
+Mannose,C6H12O6,179.05611,11.14
+Glucose,C6H12O6,179.05611,11.75
+Galactose,C6H12O6,179.05611,12.12
+inositol,C6H12O6,,13.915
+D-gluconate,C6H12O7,195.05103,7.04
+D-Galactonic acid,C6H12O7,,12.7
+citrulline,C6H13N3O3,,13.615
+leucine,C6H13NO2,,9.292
+Alloisoleucine,C6H13NO2,130.08736,9.69
+isoleucine,C6H13NO2,,9.778
+aminocaproic acid,C6H13NO2,,13.192
+Homomethionine isomer,C6H13NO2S,,3.013
+homomethionine,C6H13NO2S,,14.888
+4-Hydroxyisoleucine isomer 1,C6H13NO3,,10.981
+4-Hydroxyisoleucine isomer 2,C6H13NO3,,11.948
+BICINE isomer,C6H13NO4,,13.315
+BICINE,C6H13NO4,,13.639
+glucosamine,C6H13NO5,,10.306
+Glucosamine isomer,C6H13NO5,,13.946
+6-phosphogluconate,C6H13O10P,,14.15
+Fucose 1-phosphate,C6H13O8P,,13.932
+D-Fructose-6-phosphate,C6H13O9P,259.02243,13.74
+Mannose 6-phosphate,C6H13O9P,259.02243,13.75
+glucose-1-phosphate,C6H13O9P,259.02243,13.86
+glucose-6-phosphate,C6H13O9P,259.02243,13.86
+hexose-phosphate,C6H13O9P,,14.12
+N-Acetylputrescine isomer,C6H14N2O,,4.48
+N-Acetylputrescine,C6H14N2O,129.1033,15.7
+lysine,C6H14N2O2,,16.837
+DL-5-Hydroxylysine ,C6H14N2O3,161.09317,16.33
+arginine,C6H14N4O2,,16.736
+glucosamine-1-phosphate,C6H14NO8P,,13.654
+glucosamine-6-phosphate,C6H14NO8P,,14.076
+fructose-1-6-bisphosphate,C6H14O12P2,,14.345
+sorbitol,C6H14O6,,11.748
+Triethanolamine,C6H15NO3,,7.16
+Glycerophosphoglycerol,C6H15O8P,,12.14
+Sorbitol-6-phosphate,C6H15O9P,,14.073
+p-Benzoquinone,C6H4O2,,3
+2_5-Furandicarboxylic acid,C6H4O5,,11.44
+Pterine,C6H5N5O,,8.271
+Isoxanthopterin,C6H5N5O2,178.03705,10.76
+nicotinate,C6H5NO2,122.02475,7.11
+6-Hydroxynicotinic acid,C6H5NO3,,9.4
+nicotinamide,C6H6N2O,121.0407,4.26
+Nicotinamide isomer,C6H6N2O,,13.902
+Urocanic acid,C6H6N2O2,137.03564,8.58
+2_4-Dinitrophenylhydrazine isomer,C6H6N4O4,,5.06
+phenol,C6H6O,,1.91
+Catechol,C6H6O2,,2.01
+Hydroquinone,C6H6O2,,2.84
+5-Hydroxymethyl-2-furancarboxylic acid,C6H6O4,,7.39
+Phenol sulphate,C6H6O4S,,2.109
+Maleylacetate,C6H6O5,,11.921
+Pyrocatechol sulfate,C6H6O5S,,2.084
+Dehydroascorbic acid isomer,C6H6O6,,4.205
+Dehydroascorbic acid,C6H6O6,,7.19
+aconitate,C6H6O6,,13.892
+Hydroxycitric acid lactone,C6H6O7,,3.151
+1-Methylguanine,C6H7N5O,,7.765
+7-Methylguanine,C6H7N5O,,9.588
+Gentianaine isomer,C6H7NO3,,12.869
+2-Pyridyl hydroxymethane sulfonic acid,C6H7NO4S,,2.185
+Polyphloroglucinol phosphate,C6H7O6P,,14.135
+1-3-Dimethyluracil,C6H8N2O2,,3.09
+Gaboxadol isomer,C6H8N2O2,,4.202
+1-Methyl imidozolacetic Acid Hydrochloride,C6H8N2O2,139.0513,9.05
+Imidazole propionate,C6H8N2O2,,10.76
+Methylimidazoleacetic acid,C6H8N2O2,,11.162
+Imidazolelactate isomer,C6H8N2O3,,11.181
+Hydantoin-5-propionic acid isomer,C6H8N2O4,,13.546
+3-Methylglutaconic Acid,C6H8O4,,10.51
+Oxoadipic acid isomer,C6H8O5,,9.156
+2-Oxoadipic acid,C6H8O5,,12.4
+Oxoadipic acid isomer,C6H8O5,,13.937
+D-(+)-Glucuronic acid-lactone,C6H8O6,,5.09
+ascorbic acid,C6H8O6,C00072,10.46
+D-Glucuronolactone isomer,C6H8O6,,12.823
+Tricarballylic acid,C6H8O6,,13.75
+citrate/isocitrate,C6H8O7,191.01973,13.98
+Hydroxycitric acid isomer,C6H8O8,,13.134
+Ascorbate 2-sulfate,C6H8O9S,,5.256
+Ascorbate 2-sulfate isomer,C6H8O9S,,12.698
+histidine,C6H9N3O2,,13.516
+histidine,C6H9N3O2,154.06219,14.24
+Metronidazole isomer,C6H9N3O3,,13.605
+4-Methyleneglutamic acid isomer,C6H9NO4,,11.241
+N-acetyl-asp isomer,C6H9NO5,,12.43
+N-acetyl-aspartate,C6H9NO5,,13.351
+gamma-Carboxy-D-glutamic acid,C6H9NO6,,13.986
+4_6-Dioxoheptanoic acid,C7H10O4,,7.09
+shikimate,C7H10O5,173.04555,11.5
+2-O-Methylascorbic acid,C7H10O6,,9.037
+N-Acetylhistamine,C7H11N3O,,7.158
+3-Methyl-L-histidine isomer,C7H11N3O2,,7.153
+Methyl-Histidine,C7H11N3O2,,13.408
+(S)-N-(4-5-Dihydro-1-methyl-4-oxo-1H-imidazol-2-yl)alanine,C7H11N3O3,,9.308
+Pivaloylacetonitrile isomer,C7H11NO,,13.021
+3-Methylcrotonylglycine ,C7H11NO3,,2.09
+Tiglylglycine,C7H11NO3,,7.106
+N-Acetylproline,C7H11NO3,,8.65
+N-acetyl-glutamate,C7H11NO5,,13.211
+N-(Carboxymethyl)-L-glutamic acid isomer,C7H11NO6,,13.176
+shikimate-3-phosphate,C7H11O8P,C03175,
+Pro-Gly,C7H12N2O3,,12.454
+Glycylproline,C7H12N2O3,,13.39
+N-acetyl-glutamine,C7H12N2O4,,11.196
+N-Acetyl-L-glutamine isomer,C7H12N2O4,,12.237
+N-Acetyl-S-(N-methylcarbamoyl)cysteine,C7H12N2O4S,,8.948
+Glu-Gly isomer,C7H12N2O5,,11.253
+gamma-D-Glutamylglycine,C7H12N2O5,,13.694
+trans-4-Hydroxycyclohexanecarboxylic Acid,C7H12O3,,8.94
+3-Methyladipic acid,C7H12O4,159.06628,11.41
+Pimelic acid,C7H12O4,159.06628,11.5
+3-Isopropylmalic acid isomer,C7H12O5,,11.783
+2-Isopropylmalic acid,C7H12O5,,13.03
+Methyl beta-glucuronide isomer,C7H12O7,,7.746
+Hexosal isomer,C7H12O7,,11.981
+proline betaine,C7H13NO2,,10.279
+4-(Trimethylammonio)but-2-enoate,C7H13NO2,,13.211
+Isovalerylglycine isomer,C7H13NO3,,5.833
+N-Iso valerylglycine,C7H13NO3,,6.64
+2-Methylbutyrlglycine,C7H13NO3,,7
+N-Acetylvaline,C7H13NO3,,7.03
+Isovalerylglycine,C7H13NO3,,7.097
+Acetyl-DL-Valine isomer,C7H13NO3,,11.191
+N-Acetyl-L-methionine,C7H13NO3S,,7.103
+hydroxyvalerylglycine,C7H13NO4,,8.8
+hydroxyvalerylglycine isomer,C7H13NO4,,9.628
+N-Carboxyethyl-g-aminobutyric acid,C7H13NO4,,13.364
+2-Amino-3_7-dideoxy-D-threo-hept-6-ulosonic acid,C7H13NO5,,11.303
+N-acetyl-ornithine,C7H14N2O3,,13.065
+VaL-Gly,C7H14N2O3,,13.655
+Methionyl-Glycine,C7H14N2O3S,,10.074
+Diaminopimelic acid,C7H14N2O4,,13.428
+cystathionine,C7H14N2O4S,,14.145
+Thr-Ser,C7H14N2O5,,11.697
+Glutaurine,C7H14N2O6S,,13.359
+Heptanoic acid,C7H14O2,,3.94
+Methylglucoside,C7H14O6,,8.423
+Methylglucoside isomer,C7H14O6,,11.27
+Sedoheptulose,C7H14O7,,12.151
+n5-Iminoethyl-l-ornithine,C7H15N3O2,,11.667
+Indospicine isomer,C7H15N3O2,,17.174
+N6-Carbamoyl-DL-Lysine,C7H15N3O3,,12.736
+Homocitrulline,C7H15N3O3,,13.477
+4-Trimethylammoniobutanoic acid,C7H15NO2,,2.953
+N-Methyl-L-isoleucine,C7H15NO2,,8.856
+gamma-Butyrobetaine,C7H15NO2,,13.4
+Acetylcholine,C7H15NO2,,13.511
+Carnitine isomer,C7H15NO3,,12.059
+L-Carnitine,C7H15NO3,,13.133
+sedoheptoluse-7-phosphate,C7H15O10P,,14.051
+N-(5-Aminopentyl)acetamide,C7H16N2O,,13.22
+Bethanechol,C7H16N2O2,,14.964
+Bethanechol isomer,C7H16N2O2,,16.505
+N-Methyl-L-lysine,C7H16N2O2,,17.409
+Targinine isomer,C7H16N4O2,,10.517
+Targinine,C7H16N4O2,,16.595
+Homoarginine,C7H16N4O2,187.12006,17.98
+Perseitol,C7H16O7,,10.051
+Spermidine,C7H19N3,,13.5
+2_3-Pyridinedicarboxylic acid,C7H5NO4,166.01459,13.22
+quinolinate,C7H5NO4,166.01459,13.3
+3-Nitrosalicylic acid,C7H5NO5,,13.409
+Benozic acid,C7H6O2,,4
+Benzoic acid isomer,C7H6O2,,10.731
+p-hydroxybenzoate,C7H6O3,,2.41
+3-Hydroxybenzoic acid,C7H6O3,,2.96
+4-hydroxybenzoic acid,C7H6O3,,6.64
+2_6-Dihydroxybenzoic acid,C7H6O4,,2
+3_5-Dihydroxybenzoic acid,C7H6O4,,2
+Dihydroxybenzoic acid,C7H6O4,,2.109
+2_3-Dihydroxybenzoic acid,C7H6O4,,2.52
+Gentisic acid,C7H6O4,,2.53
+anthranilate,C7H7NO2,,2.804
+Anthranilate,C7H7NO2,,4.04
+p-aminobenzoate,C7H7NO2,C00568,4.05
+4-aminobenzoate,C7H7NO2,,4.19
+Anthranilic acid isomer,C7H7NO2,,8.846
+Trigonelline,C7H7NO2,,10.838
+2-Pyridylacetic acid,C7H7NO2,,11.259
+Trigonelline isomer,C7H7NO2,,13.723
+3-Hydroxyanthranilic acid ,C7H7NO3,152.03532,5.37
+2-Furoylglycine,C7H7NO4,168.03023,7.01
+N-Methylnicotinamide,C7H8N2O,,3.102
+1-Methylnicotinamide,C7H8N2O,,4.15
+3-Aminobenzamide isomer,C7H8N2O,,13.345
+N1-Methyl-4-pyridone-3-carboxamide,C7H8N2O2,,5.195
+N1-Methyl-4-pyridone-3-carboxamide,C7H8N2O2,,5.562
+4-Cresol,C7H8O,,2.02
+o-Cresol ,C7H8O,107.05024,2.22
+cresol,C7H8O,,2.53
+Guaiacol,C7H8O2,,2.96
+Cresol sulfate,C7H8O4S,,2.106
+Guaiacol sulfate,C7H8O5S,,2.055
+2-(Dimethylamino)pyrimidine-4-carboxylic acid,C7H9N3O2,,11.391
+2_4-diamino-6-nitrotoluene isomer,C7H9N3O2,,13.389
+6-Dimethylaminopurine,C7H9N5,162.07852,4.33
+Ethylmethylmaleimide isomer,C7H9NO2,,7.297
+Gabaculine,C7H9NO2,,10.818
+Cystathionine ketimine isomer,C7H9NO4S,,2.157
+Caffeine isomer,C8H10N4O2,,13.428
+Pyridoxal 5-phosphate,C8H10NO6P,246.0173,13.79
+2-Phenylethanol isomer,C8H10O,,2.09
+Tyrosol 4-sulfate isomer,C8H10O5S,,2.043
+Tyrosol 4-sulfate,C8H10O5S,,2.259
+Hydroxytyrosol 4'-sulfate,C8H10O6S,,2.211
+3_4-Dihydroxyphenylglycol O-sulfate,C8H10O7S,,2.606
+N-acetyl-histidine,C8H11N3O3,,11.186
+Phenylethanolamine,C8H11NO,136.07678,7.75
+2-Amino-1-phenylethanol,C8H11NO,,8.82
+Tyramine,C8H11NO,,9.58
+Dopamine ,C8H11NO2,,8.1
+Norepinephrine ,C8H11NO3,,4.12
+pyridoxine,C8H11NO3,168.06662,6.28
+Pyridoxamine isomer,C8H12N2O2,,4.179
+Pyridoxamine,C8H12N2O2,167.0826,12.79
+6-Aminopenicillanate,C8H12N2O3S,,
+Asp Asp,C8H12N2O7,,13.961
+Gly-His,C8H12N4O3,,13.144
+2-O-Ethyl ascorbic acid isomer,C8H12O6,,13.335
+Pyridoxamine-5'-Phosphate,C8H13N2O5P,,14.268
+Arecoline isomer,C8H13NO2,,14.378
+dimethyl (R)-pyrrolidine-1-2-dicarboxylate,C8H13NO4,,11.162
+N-acetyl-L-2-aminoadipate,C8H13NO5,,13.17
+O-Succinyl-L-homoserine isomer,C8H13NO6,,11.06
+O-Succinyl-L-homoserine,C8H13NO6,,13.418
+Levetiracetam isomer,C8H14N2O2,,4.183
+Pro-Ala,C8H14N2O3,,11.933
+Pro-Ser isomer,C8H14N2O4,,9.162
+Pro-Ser ,C8H14N2O4,,10.125
+Pro-Ser,C8H14N2O4,,12.736
+Pro-Ser isomer,C8H14N2O4,,13.453
+5-L-Glutamyl-L-alanine isomer,C8H14N2O5,,10.967
+Glu-Ala,C8H14N2O5,,13.551
+Glu-Cys,C8H14N2O5S,,13.35
+Glu-Ser,C8H14N2O6,,13.555
+(2S)-5-Amino-2-[(2-methoxy-2-oxoethyl)sulfonylamino]-5-oxopentanoic acid,C8H14N2O7S,,12.882
+methylheptenone isomer,C8H14O,,4.198
+2-Octenoic acid,C8H14O2,,4.189
+Lipoic acid,C8H14O2S2,,4.198
+trans-4-Hydroxycyclohexylacetic acid,C8H14O3,,2.454
+2-Oxo-7-methylthioheptanoic acid,C8H14O3S,,4.626
+Suberic acid,C8H14O4,173.08194,2.92
+Diethyl tartrate isomer,C8H14O6,,13.428
+Ethyl glucuronide,C8H14O7,,11.263
+N-Acetyl-L-citrulline,C8H15N3O4,,11.256
+Gln-Ala,C8H15N3O4,,11.863
+N-acetyl-citrulline isomer,C8H15N3O4,,12.242
+Homostachydrine isomer,C8H15NO2,,8.55
+Homostachydrine,C8H15NO2,,9.938
+prenyl-L-cysteine isomer 1,C8H15NO2S,,2.948
+prenyl-L-cysteine isomer 2,C8H15NO2S,,4.202
+Hexanoyl Glycine,C8H15NO3,,3.05
+N-acetyl-leucine,C8H15NO3,,7.091
+Acetyl-DL-Leucine isomer,C8H15NO3,,11.205
+N-Acetylleucine isomer,C8H15NO3,,11.923
+Castanospermine isomer,C8H15NO4,,11.833
+N-Acetyl-D-fucosamine,C8H15NO5,,11.183
+N-Acetyl-glucosamine,C8H15NO6,,12.062
+N-Acetyl-D-glucosaminate isomer,C8H15NO7,,11.009
+Fructosyl-glycine,C8H15NO7,,13.039
+N-Acetylglucosamine 6-sulfate,C8H15NO9S,,7.382
+Glycyl-L-leucine,C8H16N2O3,187.10881,8.54
+Leu-Gly,C8H16N2O3,,12.932
+N-Alpha-acetyllysine,C8H16N2O3,,13.595
+Val-Ser isomer,C8H16N2O4,,11.968
+homocystine,C8H16N2O4S,,13.82
+homocystine,C8H16N2O4S2,267.04788,13.82
+N-Acetyl-L-arginine,C8H16N4O3,,13.34
+L-Acetopine isomer,C8H16N4O4,,14.655
+N-acetyl-glucosamine-6-Phosphate,C8H16NO9P,,13.872
+Octanal isomer,C8H16O,,4.201
+2-Hydroxyoctanoic acid,C8H16O3,,2.65
+Lys-Gly isomer,C8H17N3O3,,12.009
+Lys-Gly,C8H17N3O3,,14.135
+2-Aminooctanoic acid,C8H17NO2,,8.673
+methacholine,C8H17NO2,,13.624
+N-Gluconyl ethanolamine isomer,C8H17NO7,,11.601
+octulose-8-phosphate,C8H17O11P,,14.111
+NN-dimethylarginine ,C8H18N4O2,,16.394
+Glycerophosphocholine,C8H20NO6P,,13.541
+Indole-5_6-quinone,C8H5NO2,,2.894
+Phenylglyoxylic acid,C8H6O3,,2.49
+Indole,C8H7N,,4.19
+4-Hydroxyindole,C8H7NO,,2.16
+Gentianadine isomer,C8H7NO2,,4.176
+4-Aminoisophthalic acid ,C8H7NO4,,3.37
+Indoxyl sulfate,C8H7NO4S,,2.169
+Nicotinuric acid,C8H8N2O3,,8.5
+Phenylacetic acid,C8H8O2,,2.79
+3-Cresotinic acid,C8H8O3,151.04007,2.26
+Mandelic acid,C8H8O3,151.04007,2.77
+3-Hydroxyphenylacetic acid,C8H8O3,151.04007,2.86
+4-hydroxy-3-methylbenzoic acid,C8H8O3,151.04007,3
+4-hydroxyphenylacetate,C8H8O3,,6.67
+Homogentisic acid,C8H8O4,,2.96
+3-Hydroxymandelic acid,C8H8O4,,5
+3_4-Dihydroxybenzeneacetic acid,C8H8O4,,6.37
+4-Hydroxymandelic acid,C8H8O4,,7
+DL-3_4-Dihydroxymandelic acid,C8H8O5,,2.07
+Fumarylacetoacetate,C8H8O6,,
+Vanillin 4-sulfate,C8H8O6S,,8.331
+Vanillic acid 4-sulfate,C8H8O7S,,7.978
+N-Methylanthranilic acid,C8H9NO2,,10.559
+N-Methylanthranilic acid isomer,C8H9NO2,,13.206
+4-Hydroxy-L-phenylglycine,C8H9NO3,,2.688
+Pyridoxal ,C8H9NO3,,6.39
+4-Pyridoxic acid,C8H9NO4,182.04588,2.45
+Perfluorooctanesulfonic acid,C8HF17O3S,,1.956
+4-Aminohippuric acid,C9H10N2O3,193.06186,7.4
+3-Nitro-L- tyrosine,C9H10N2O5,,11.61
+3-Phenylpropionate,C9H10O2,,2.78
+2-Phenylpropionic acid,C9H10O2,,2.8
+D-Phenyllactic acid,C9H10O3,165.05573,2.75
+4-hydroxyphenylpropionate,C9H10O3,,6.62
+Desaminotyrosine,C9H10O3,,6.9
+Hydroxyphenyllactic acid,C9H10O4,181.05063,2.85
+DL-p-Hydroxyphenyllactic acid,C9H10O4,,6.19
+3_4-Dihydroxyhydrocinnamic acid,C9H10O4,,7.15
+DL-4-Hydroxy-3-methoxymandelic acid,C9H10O5,,4.34
+2_3-Dimethoxy-5-sulphobenzoic acid,C9H10O7S,,8.499
+Sepiapterin,C9H11N5O3,,9.736
+phenylalanine,C9H11NO2,,8.861
+Phenylalanine isomer,C9H11NO2,,12.389
+tyrosine,C9H11NO3,,10.721
+L-Dopa,C9H11NO4,,2.74
+N-Dimethoxyphosphorylbenzenecarboximidate isomer,C9H11NO4P,,12.967
+Kynuramine isomer,C9H12N2O,,4.221
+Dulcin,C9H12N2O2,,5.267
+aminohydroxyphenylalanine isomer,C9H12N2O3,,5.152
+deoxyuridine,C9H12N2O5,227.06735,6.14
+uridine,C9H12N2O6,,7.61
+Pseudouridine,C9H12N2O6,,9.595
+(3-Methoxy-4-hydroxyphenyl)ethylene glycol sulfate,C9H12O7S,,2.558
+dUMP,C9H13N2O8P,307.03366,13.59
+UMP,C9H13N2O9P,,13.882
+Deoxycytidine,C9H13N3O4,,8.275
+cytidine,C9H13N3O5,,9.256
+Mizoribine,C9H13N3O6,,13.418
+7_8-dihydro-L-Biopterin,C9H13N5O3,,10.167
+N-Methyltyramine ,C9H13NO,,9.54
+3-Methoxytyramine ,C9H13NO2,,9.13
+Synephrine,C9H13NO2,,10.02
+N-Ethyl-4-methylbenzenesulfonamide isomer,C9H13NO2S,,2.685
+UDP,C9H14N2O12P2,402.99493,13.88
+Pro-Asp,C9H14N2O5,,13.808
+5_6-Dihydrouridine,C9H14N2O6,,7.851
+Aspartylhydroxyproline,C9H14N2O6,,13.286
+Glutamylaspartic acid isomer,C9H14N2O7,,13.409
+Glutamylaspartic acid,C9H14N2O7,,13.937
+dCMP,C9H14N3O7P,306.04965,13.62
+CMP,C9H14N3O8P,,14.008
+Carnosine,C9H14N4O3,,14.031
+5-Aminoimidazole-4-carboxamide ribonucleoside (AICAr),C9H14N4O5,258.096421,
+Allyl hexenoate isomer,C9H14O2,,4.201
+dUTP,C9H15N2O14P3,466.96634,13.94
+UTP,C9H15N2O15P3,,14.303
+dCDP,C9H15N3O10P2,386.01599,13.83
+CDP,C9H15N3O11P2,,14.13
+N-N-N-Trimethyl-Histidine,C9H15N3O2,,13.286
+Ergothioneine,C9H15N3O2S,,12.185
+Pro-Asn isomer,C9H15N3O4,,13.482
+Asparaginyl-Hydroxyproline isomer,C9H15N3O5,,11.628
+Asn Glu,C9H15N3O6,,13.508
+5-Aminoimidazole-4-carboxamide ribotide (AICAR),C9H15N4O8P,,11.35
+Ecgonine,C9H15NO3,,7.059
+Ecgonine isomer,C9H15NO3,,13.231
+Pro-Thr,C9H16N2O4,,11.611
+Val-Asp isomer,C9H16N2O5,,11.205
+gamma-Glutamyl-2-aminobutyrate,C9H16N2O5,,13.46
+4-(Glutamylamino) butanoate,C9H16N2O5,,13.477
+Acetyl-N-(2-sulfoethyl)-L-alpha-glutamine,C9H16N2O7S,,12.459
+dCTP,C9H16N3O13P3,465.98233,14.08
+CTP,C9H16N3O14P3,,14.393
+2-Nonenoic acid isomer,C9H16O2,,2.482
+4-hydroxynonenoic acid isomer 2,C9H16O3,,3.081
+4-hydroxynonenoic acid isomer,C9H16O3,,4.205
+2-(alpha-D-Mannosyl)-D-glycerate isomer,C9H16O9,,13.322
+Gabapentin isomer,C9H17NO2,,4.216
+N-Heptanoylglycine,C9H17NO3,,3.071
+8-Amino-7-oxononanoic acid,C9H17NO3,,11.244
+N-Lactoylleucine,C9H17NO4,,10.289
+acetyl carnitine,C9H17NO4,,11.229
+Pantothenic Acid,C9H17NO5,,9.219
+Pantothenic Acid isomer,C9H17NO5,,11.893
+Muramic acid,C9H17NO7,,13.937
+Neuraminic acid,C9H17NO8,,14.166
+L-Leucyl-L- Alanine,C9H18N2O3,,7.746
+Leu-Ala isomer,C9H18N2O3,,12.802
+Leu-Ala,C9H18N2O3,,13.546
+Ile Cys isomer,C9H18N2O3S,,2.407
+Leu-Ser isomer,C9H18N2O4,,8.971
+Ser-Leu isomer,C9H18N2O4,,14.403
+Arg Ala,C9H19N5O3,,14.066
+Muramicitol isomer,C9H19NO7,,3.048
+sn-glycero-3-phospho-1-Inositol,C9H19O11P,,13.971
+Trimethyllysine,C9H20N2O2,,17.204
+6-Chlorobenzo[b]thiophene-3-carboxylic acid,C9H5ClO2S ,,2.34
+3 Hydroxycoumarin isomer,C9H6O3,,3.082
+4-formyl Indole,C9H7NO,,2.893
+Indole-3-carboxylic acid,C9H7NO2,,2.268
+Indole-3-carboxilic acid-O-sulphate,C9H7NO5S,,2.246
+pemoline isomer,C9H8N2O2,,5.572
+Cinnamic acid,C9H8O2,,4.19
+4-Hydroxycinnamyl aldehyde,C9H8O2,,4.192
+trans-Cinnamate,C9H8O2,,8.84
+3-hydroxycinnamate,C9H8O3,,2.38
+phenylpyruvate,C9H8O3,163.04007,2.44
+m-Coumaric acid,C9H8O3,163.04007,2.95
+2-Oxo-3-phenylpropanoic acid,C9H8O3,163.04007,3
+trans-Hydroxycinnamic acid,C9H8O3,163.04007,3.04
+hydroxyphenylpyruvate,C9H8O4,,2.888
+3-Methylindole,C9H9N,,3
+p-Acetaminobenzaldehyde isomer,C9H9NO2,,2.791
+hippuric acid isomer,C9H9NO3,,2.752
+Hippuric acid,C9H9NO3,,7
+2-hydroxyhippuric acid,C9H9NO4,,4.13
+Hydroxy Hippuric Acid,C9H9NO4,,7.939
+carbamoyl phosphate,CH4NO5P,,13.715
+Hydroxymethylphosphonate,CH5O4P,,13.642
+sulfate,H2SO4,,13.834
+phosphate,H3O4P,,14.252
+Hydrogen iodide,HI,,2.23
+p-Cresyl glucuronide,C13H16O7,,
+BYL719,C19H22F3N5O2S,,
+"2',2'-Difluoro-2'-deoxyuridine",C9H10F2N2O5,,
+Canagliflozin,C24H25FO5S,,
+Canagliflozin 3-Glucuronide,C30H33FO11S,,
+BYL719 M4,C19H21F3N4O3S,,
+4-Ethylphenyl sulfate,C8H10O4S,,
+4-Ethylphenol,C8H10O,,
+DL cotinine,C10H12N2O,,
+Vitamin D3,C27H44O,,
+Urea,CH4N2O,,
