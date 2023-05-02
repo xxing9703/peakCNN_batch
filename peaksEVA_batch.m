@@ -43,7 +43,7 @@ if nargin>5
 end
 
 if isempty(fn_mzXML)
-  fn=uigetfile('*.mzXML','MultiSelect','on'); 
+  fn_mzXML=uigetfile('*.mzXML','MultiSelect','on'); 
 end
 
 if ~iscell(fn_mzXML)
