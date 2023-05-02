@@ -1,7 +1,7 @@
 # peaksCNN_batch
 This Matlab code follows the idea from the paper (in citaion) with some modifications, for training and using deep learning CNN (convolutional neural network) model to classify LC-MS features as true (high quality) and false (low quality). This is the updated version of peaksCNN, and supports multiple .mzXML inputs.
 
-## Use pretrained model for peak classification (use function "peaksEVA.m")
+## Use pretrained model for peak classification (use function "peaksEVA_batch.m")
 Example usage: download and unzip the code, type the following one-line code in matlab
 
     peaksEVA_batch([], 'pklist.csv', [5,6], 'net64', 1);
